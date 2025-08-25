@@ -1,0 +1,138 @@
+/* General Page Style */
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg, #ed6da2, #98b021,#ed6da2);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Main Container */
+.container {
+    background: white;
+    width: 90%;
+    max-width: 800px;
+    min-height: 600px;
+    padding: 50px 40px;
+    border-radius: 25px;
+    box-shadow: 0 12px 25px rgba(0, 0, 0, 0.25);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+}
+
+/* Title & Subtitle */
+.title {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    font-size: 1.2rem;
+    color: #555;
+    margin-bottom: 20px;
+}
+
+/* Start Button */
+#start-btn {
+    padding: 12px 25px;
+    background: #0c0255;
+    color: white;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+#start-btn:hover {
+    background: #84a9e4;
+}
+
+/* Hide Elements */
+.hidden {
+    display: none;
+}
+
+/* Controls (Level & Language) */
+.controls {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+    font-size: 1.1rem;
+}
+
+select {
+    padding: 5px 10px;
+    font-size: 1rem;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+/* Question Box */
+#question-box {
+    background: #f9f9f9;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+#question-text {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Options */
+#options button {
+    display: block;
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    background: #de4f51;
+    color: white;
+    font-size: 1.1rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+#options button:hover {
+    background: #ec849b;
+}
+
+/* Feedback & Congrats */
+#feedback {
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+#congrats {
+    font-size: 1.3rem;
+    color: green;
+    margin-top: 10px;
+}
+
+/* Next Button */
+#next-btn {
+    padding: 12px 25px;
+    background: #bddf75;
+    color: white;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+    margin-top: 15px;
+}
+
+#next-btn:hover {
+    background: #828e3e;
+}

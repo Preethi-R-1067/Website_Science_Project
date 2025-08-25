@@ -1,0 +1,2675 @@
+[
+  {
+    "level": "Beginner",
+    "question_en": "What gas do humans breathe in for survival?",
+    "question_ta": "மனிதர்கள் உயிர்வாழ எந்த வாயுவை சுவாசிக்கிறார்கள்?",
+    "options_en": ["Carbon dioxide", "Oxygen", "Nitrogen", "Helium"],
+    "options_ta": ["கார்பன் டைஆக்சைடு", "ஆக்சிஜன்", "நைட்ரஜன்", "ஹீலியம்"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which part of the plant makes food?",
+    "question_ta": "தாவரத்தின் எந்த பகுதி உணவை தயாரிக்கிறது?",
+    "options_en": ["Root", "Stem", "Leaf", "Flower"],
+    "options_ta": ["வேர்", "தண்டு", "இலை", "மலர்"],
+    "answer": 2
+  },
+  {
+    "level": "Beginner",
+    "question_en": "What is the closest planet to the Sun?",
+    "question_ta": "சூரியனுக்கு மிக அருகிலுள்ள கோள் எது?",
+    "options_en": ["Venus", "Mercury", "Earth", "Mars"],
+    "options_ta": ["சுக்கிரன்", "புதன்", "பூமி", "செவ்வாய்"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which star gives us heat and light?",
+    "question_ta": "எந்த நட்சத்திரம் நமக்கு வெப்பத்தையும் ஒளியையும் தருகிறது?",
+    "options_en": ["Moon", "Sun", "Venus", "Polaris"],
+    "options_ta": ["சந்திரன்", "சூரியன்", "சுக்கிரன்", "துருவ நட்சத்திரம்"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which organ pumps blood in the human body?",
+    "question_ta": "மனித உடலில் இரத்தத்தை பம்ப் செய்யும் உறுப்பு எது?",
+    "options_en": ["Brain", "Kidney", "Heart", "Lungs"],
+    "options_ta": ["மூளை", "சிறுநீரகம்", "இதயம்", "நுரையீரல்"],
+    "answer": 2
+  },
+  {
+    "level": "Beginner",
+    "question_en": "What is the largest planet in our Solar System?",
+    "question_ta": "நமது சூரியக் குடும்பத்தில் மிகப்பெரிய கோள் எது?",
+    "options_en": ["Saturn", "Earth", "Jupiter", "Neptune"],
+    "options_ta": ["சனி", "பூமி", "குரு", "வருணன்"],
+    "answer": 2
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which gas do plants release during photosynthesis?",
+    "question_ta": "ஒளிச்சேர்க்கை நிகழ்வின் போது தாவரங்கள் எந்த வாயுவை வெளியிடுகின்றன?",
+    "options_en": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "options_ta": ["கார்பன் டைஆக்சைடு", "ஆக்சிஜன்", "நைட்ரஜன்", "ஹைட்ரஜன்"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which planet is called the Blue Planet?",
+    "question_ta": "எந்த கோள் நீல கோள் என்று அழைக்கப்படுகிறது?",
+    "options_en": ["Earth", "Neptune", "Uranus", "Venus"],
+    "options_ta": ["பூமி", "வருணன்", "உரேனஸ்", "சுக்கிரன்"],
+    "answer": 0
+  },
+  {
+    "level": "Beginner",
+    "question_en": "What part of the body helps us breathe?",
+    "question_ta": "உடலின் எந்த பகுதி நமக்கு சுவாசிக்க உதவுகிறது?",
+    "options_en": ["Heart", "Lungs", "Kidney", "Stomach"],
+    "options_ta": ["இதயம்", "நுரையீரல்", "சிறுநீரகம்", "வயிறு"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "What is the process by which plants make their own food?",
+    "question_ta": "தாவரங்கள் தங்களுக்கான உணவை தயாரிக்கும் செயல்முறை எது?",
+    "options_en": ["Respiration", "Photosynthesis", "Digestion", "Transpiration"],
+    "options_ta": ["சுவாசம்", "ஒளிச்சேர்க்கை", "செரிமானம்", "வியர்வை"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which planet has rings around it?",
+    "question_ta": "எந்த கோளுக்கு வளையங்கள் உள்ளன?",
+    "options_en": ["Jupiter", "Mars", "Saturn", "Neptune"],
+    "options_ta": ["குரு", "செவ்வாய்", "சனி", "வருணன்"],
+    "answer": 2
+  },
+  {
+    "level": "Beginner",
+    "question_en": "What is the hardest natural substance on Earth?",
+    "question_ta": "பூமியில் இயற்கையாகக் காணப்படும் கடினமான பொருள் எது?",
+    "options_en": ["Iron", "Diamond", "Gold", "Granite"],
+    "options_ta": ["இரும்பு", "வைரம்", "தங்கம்", "கிரானைட்"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which is the smallest bone in the human body?",
+    "question_ta": "மனித உடலில் மிகச் சிறிய எலும்பு எது?",
+    "options_en": ["Stapes", "Femur", "Rib", "Ulna"],
+    "options_ta": ["ஸ்டேப்பிஸ்", "ஊன்தண்டு", "விலா எலும்பு", "உல்னா"],
+    "answer": 0
+  },
+  {
+    "level": "Beginner",
+    "question_en": "What type of energy do we get from the Sun?",
+    "question_ta": "சூரியனிடமிருந்து நாம் பெறும் ஆற்றல் எது?",
+    "options_en": ["Nuclear", "Solar", "Wind", "Geothermal"],
+    "options_ta": ["அணு", "சூரிய", "காற்றழுத்த", "புவியியல் வெப்பம்"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which sense organ helps us see?",
+    "question_ta": "எந்த உணர்ச்சி உறுப்பு நமக்கு பார்க்க உதவுகிறது?",
+    "options_en": ["Ears", "Nose", "Eyes", "Skin"],
+    "options_ta": ["காதுகள்", "மூக்கு", "கண்கள்", "தோல்"],
+    "answer": 2
+  },
+  {
+    "level": "Beginner",
+    "question_en": "What is H2O commonly known as?",
+    "question_ta": "H2O பொதுவாக எதனால் அழைக்கப்படுகிறது?",
+    "options_en": ["Oxygen", "Hydrogen", "Water", "Carbon dioxide"],
+    "options_ta": ["ஆக்சிஜன்", "ஹைட்ரஜன்", "தண்ணீர்", "கார்பன் டைஆக்சைடு"],
+    "answer": 2
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which planet is known as the Red Planet?",
+    "question_ta": "சிவப்பு கிரகம் என அழைக்கப்படும் கோள் எது?",
+    "options_en": ["Earth", "Mars", "Venus", "Jupiter"],
+    "options_ta": ["பூமி", "செவ்வாய்", "சுக்கிரன்", "குரு"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "What organ controls all body functions?",
+    "question_ta": "உடலின் அனைத்து செயல்களையும் கட்டுப்படுத்தும் உறுப்பு எது?",
+    "options_en": ["Heart", "Lungs", "Brain", "Liver"],
+    "options_ta": ["இதயம்", "நுரையீரல்", "மூளை", "கல்லீரல்"],
+    "answer": 2
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which planet is called the Evening Star?",
+    "question_ta": "மாலை நட்சத்திரம் என்று அழைக்கப்படும் கோள் எது?",
+    "options_en": ["Mercury", "Venus", "Jupiter", "Saturn"],
+    "options_ta": ["புதன்", "சுக்கிரன்", "குரு", "சனி"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "What is the main source of energy for Earth?",
+    "question_ta": "பூமிக்கு முக்கிய ஆற்றல் மூலாதாரம் எது?",
+    "options_en": ["Wind", "Sun", "Water", "Electricity"],
+    "options_ta": ["காற்று", "சூரியன்", "தண்ணீர்", "மின்சாரம்"],
+    "answer": 1
+  },
+ {
+    "level": "Beginner",
+    "question_en": "Which gas do humans inhale for respiration?",
+    "question_ta": "மனிதர்கள் சுவாசிப்பதற்கு எந்த வாயுவை சுவாசிக்கிறார்கள்?",
+    "options_en": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "options_ta": ["கார்பன் டைஆக்சைடு", "ஆக்சிஜன்", "நைட்ரஜன்", "ஹைட்ரஜன்"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "What is the largest organ in the human body?",
+    "question_ta": "மனித உடலில் மிகப்பெரிய உறுப்பு எது?",
+    "options_en": ["Heart", "Skin", "Liver", "Lungs"],
+    "options_ta": ["இதயம்", "தோல்", "கல்லீரல்", "நுரையீரல்"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which planet is closest to the Sun?",
+    "question_ta": "சூரியனுக்கு மிக அருகிலுள்ள கோள் எது?",
+    "options_en": ["Mercury", "Venus", "Earth", "Mars"],
+    "options_ta": ["புதன்", "வெள்ளி", "பூமி", "செவ்வாய்"],
+    "answer": 0
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which nutrient is mainly responsible for body growth?",
+    "question_ta": "உடல் வளர்ச்சிக்கு முக்கியமாக பொறுப்பான சத்து எது?",
+    "options_en": ["Carbohydrates", "Proteins", "Fats", "Vitamins"],
+    "options_ta": ["கார்போஹைட்ரேட்", "புரதச்சத்து", "கொழுப்பு", "விடமின்"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "What is the boiling point of water at sea level?",
+    "question_ta": "கடல் மட்டத்தில் தண்ணீரின் கொதிநிலை என்ன?",
+    "options_en": ["50°C", "100°C", "212°C", "0°C"],
+    "options_ta": ["50°C", "100°C", "212°C", "0°C"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "What type of energy does the Sun provide?",
+    "question_ta": "சூரியன் எந்த வகையான ஆற்றலை வழங்குகிறது?",
+    "options_en": ["Nuclear energy", "Solar energy", "Kinetic energy", "Chemical energy"],
+    "options_ta": ["அணு ஆற்றல்", "சூரிய ஆற்றல்", "இயக்க ஆற்றல்", "வேதி ஆற்றல்"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which planet is known for its rings?",
+    "question_ta": "வளையங்களுக்காக அறியப்படும் கோள் எது?",
+    "options_en": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "options_ta": ["வியாழன்", "சனி", "இராணு", "நெப்டியூன்"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which blood cells fight infections?",
+    "question_ta": "தொற்றுகளை எதிர்க்கும் இரத்த அணுக்கள் எவை?",
+    "options_en": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+    "options_ta": ["சிவப்பு இரத்த அணுக்கள்", "வெள்ளை இரத்த அணுக்கள்", "இரத்த தகட்டுகள்", "பிளாஸ்மா"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "What is the process by which plants make their food?",
+    "question_ta": "தாவரங்கள் தங்கள் உணவை தயாரிக்கும் செயல்முறை எது?",
+    "options_en": ["Respiration", "Photosynthesis", "Transpiration", "Fermentation"],
+    "options_ta": ["சுவாசம்", "ஒளிச்சேர்க்கை", "வியர்வை", "காட்கலன்"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which is the fastest land animal?",
+    "question_ta": "மிக வேகமான நில விலங்கு எது?",
+    "options_en": ["Lion", "Horse", "Cheetah", "Tiger"],
+    "options_ta": ["சிங்கம்", "குதிரை", "சிறுத்தை", "புலி"],
+    "answer": 2
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which gas is known as laughing gas?",
+    "question_ta": "எந்த வாயு சிரிக்கும் வாயுவாக அழைக்கப்படுகிறது?",
+    "options_en": ["Nitrogen dioxide", "Nitrous oxide", "Oxygen", "Carbon monoxide"],
+    "options_ta": ["நைட்ரஜன் டைஆக்சைடு", "நைட்ரஸ் ஆக்சைடு", "ஆக்சிஜன்", "கார்பன் மோனாக்சைடு"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which planet is called the 'Red Planet'?",
+    "question_ta": "‘சிவப்பு கோள்’ என்று அழைக்கப்படும் கோள் எது?",
+    "options_en": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "options_ta": ["சுக்கிரன்", "செவ்வாய்", "குரு", "சனி"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "What is the chemical formula of water?",
+    "question_ta": "தண்ணீரின் வேதியியல் வாய்பாடு என்ன?",
+    "options_en": ["H2O", "CO2", "O2", "NaCl"],
+    "options_ta": ["H2O", "CO2", "O2", "NaCl"],
+    "answer": 0
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which part of the human body has the smallest bones?",
+    "question_ta": "மனித உடலில் சிறிய எலும்புகள் எங்கு உள்ளன?",
+    "options_en": ["Hands", "Feet", "Ears", "Nose"],
+    "options_ta": ["கைகள்", "கால்கள்", "காதுகள்", "மூக்கு"],
+    "answer": 2
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which vitamin is produced in the skin by sunlight?",
+    "question_ta": "சூரியஒளியால் சருமத்தில் உற்பத்தியாகும் வைட்டமின் எது?",
+    "options_en": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "options_ta": ["வைட்டமின் A", "வைட்டமின் B", "வைட்டமின் C", "வைட்டமின் D"],
+    "answer": 3
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which gas is released during photosynthesis?",
+    "question_ta": "ஒளிச்சேர்க்கையின் போது வெளியேறும் வாயு எது?",
+    "options_en": ["Carbon dioxide", "Oxygen", "Hydrogen", "Nitrogen"],
+    "options_ta": ["கார்பன் டைஆக்சைடு", "ஆக்சிஜன்", "ஹைட்ரஜன்", "நைட்ரஜன்"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "What is the SI unit of force?",
+    "question_ta": "வலுவின் எஸ்.ஐ. அலகு எது?",
+    "options_en": ["Joule", "Newton", "Pascal", "Watt"],
+    "options_ta": ["ஜூல்", "நியூட்டன்", "பாஸ்கல்", "வாட்"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which organ is responsible for pumping blood?",
+    "question_ta": "இரத்தத்தை சுழற்றும் உறுப்பு எது?",
+    "options_en": ["Lungs", "Brain", "Heart", "Kidney"],
+    "options_ta": ["நுரையீரல்", "மூளை", "இதயம்", "சிறுநீரகம்"],
+    "answer": 2
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which instrument is used to measure temperature?",
+    "question_ta": "வெப்பநிலையை அளக்கும் கருவி எது?",
+    "options_en": ["Barometer", "Hygrometer", "Thermometer", "Ammeter"],
+    "options_ta": ["வானிலைமானி", "ஈரப்பதமானி", "வெப்பமானி", "அம்மீட்டர்"],
+    "answer": 2
+  },
+  {
+    "level": "Beginner",
+    "question_en": "What is the main source of energy for Earth?",
+    "question_ta": "பூமிக்கு முக்கியமான ஆற்றல் மூலமாக இருப்பது எது?",
+    "options_en": ["Moon", "Sun", "Volcanoes", "Wind"],
+    "options_ta": ["சந்திரன்", "சூரியன்", "எரிமலை", "காற்று"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which element is needed for respiration?",
+    "question_ta": "சுவாசத்திற்கு தேவையான மூலப்பொருள் எது?",
+    "options_en": ["Oxygen", "Carbon", "Nitrogen", "Hydrogen"],
+    "options_ta": ["ஆக்சிஜன்", "கார்பன்", "நைட்ரஜன்", "ஹைட்ரஜன்"],
+    "answer": 0
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which gas extinguishes fire?",
+    "question_ta": "எந்த வாயு தீயை அணைக்கிறது?",
+    "options_en": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+    "options_ta": ["ஆக்சிஜன்", "கார்பன் டைஆக்சைடு", "நைட்ரஜன்", "ஹைட்ரஜன்"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which type of energy is stored in food?",
+    "question_ta": "உணவில் சேமிக்கப்படும் ஆற்றல் எது?",
+    "options_en": ["Kinetic energy", "Potential energy", "Chemical energy", "Heat energy"],
+    "options_ta": ["இயக்க ஆற்றல்", "நிலையியல் ஆற்றல்", "வேதியியல் ஆற்றல்", "வெப்ப ஆற்றல்"],
+    "answer": 2
+  },
+  {
+    "level": "Beginner",
+    "question_en": "What is the natural satellite of Earth?",
+    "question_ta": "பூமியின் இயற்கை செயற்கைக்கோள் எது?",
+    "options_en": ["Mars", "Moon", "Venus", "Jupiter"],
+    "options_ta": ["செவ்வாய்", "சந்திரன்", "சுக்கிரன்", "குரு"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which organ controls all activities in the body?",
+    "question_ta": "உடலின் அனைத்து செயல்பாடுகளையும் கட்டுப்படுத்தும் உறுப்பு எது?",
+    "options_en": ["Heart", "Brain", "Lungs", "Kidneys"],
+    "options_ta": ["இதயம்", "மூளை", "நுரையீரல்", "சிறுநீரகம்"],
+    "answer": 1
+  },
+ 
+  {
+    "level": "Beginner",
+    "question_en": "What is the nearest planet to the Sun?",
+    "question_ta": "சூரியனுக்கு அருகிலுள்ள கோள் எது?",
+    "options_en": ["Mercury", "Venus", "Earth", "Mars"],
+    "options_ta": ["புதன்", "வெள்ளி", "பூமி", "செவ்வாய்"],
+    "answer": 0
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which part of the plant makes food?",
+    "question_ta": "தாவரத்தின் எந்த பகுதி உணவை தயாரிக்கிறது?",
+    "options_en": ["Root", "Stem", "Leaf", "Flower"],
+    "options_ta": ["வேர்", "தண்டு", "இலை", "மலர்"],
+    "answer": 2
+  },
+  {
+    "level": "Beginner",
+    "question_en": "What is the center of an atom called?",
+    "question_ta": "அணுவின் மையம் எவ்வாறு அழைக்கப்படுகிறது?",
+    "options_en": ["Proton", "Electron", "Nucleus", "Neutron"],
+    "options_ta": ["புரோட்டான்", "எலக்ட்ரான்", "நியூக்ளியஸ்", "நியூட்ரான்"],
+    "answer": 2
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which gas is essential for fire to burn?",
+    "question_ta": "தீ எரிய எது அவசியமான வாயு?",
+    "options_en": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+    "options_ta": ["ஆக்சிஜன்", "கார்பன் டைஆக்சைடு", "நைட்ரஜன்", "ஹைட்ரஜன்"],
+    "answer": 0
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which organ pumps blood in the human body?",
+    "question_ta": "மனித உடலில் இரத்தத்தை பாய்ச்சும் உறுப்பு எது?",
+    "options_en": ["Brain", "Heart", "Lungs", "Liver"],
+    "options_ta": ["மூளை", "இதயம்", "நுரையீரல்", "கல்லீரல்"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which planet is known as the Red Planet?",
+    "question_ta": "சிவப்பு கோள் என்று அழைக்கப்படும் கோள் எது?",
+    "options_en": ["Earth", "Venus", "Mars", "Jupiter"],
+    "options_ta": ["பூமி", "வெள்ளி", "செவ்வாய்", "வியாழன்"],
+    "answer": 2
+  },
+  {
+    "level": "Beginner",
+    "question_en": "What is H2O commonly known as?",
+    "question_ta": "H2O எதன் பெயராகும்?",
+    "options_en": ["Hydrogen", "Oxygen", "Water", "Salt"],
+    "options_ta": ["ஹைட்ரஜன்", "ஆக்சிஜன்", "தண்ணீர்", "உப்பு"],
+    "answer": 2
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which star is at the center of our solar system?",
+    "question_ta": "எங்கள் சூரியக் குடும்பத்தின் மையத்தில் உள்ள நட்சத்திரம் எது?",
+    "options_en": ["Moon", "Sun", "Polaris", "Sirius"],
+    "options_ta": ["நிலா", "சூரியன்", "போலாரிஸ்", "சிரியஸ்"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "What is the hardest natural substance on Earth?",
+    "question_ta": "பூமியில் உள்ள மிகவும் கடினமான இயற்கை பொருள் எது?",
+    "options_en": ["Iron", "Gold", "Diamond", "Coal"],
+    "options_ta": ["இரும்பு", "தங்கம்", "வைரம்", "நிலக்கரி"],
+    "answer": 2
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which part of the human body controls all activities?",
+    "question_ta": "மனித உடலின் அனைத்து செயல்பாடுகளையும் கட்டுப்படுத்தும் பகுதி எது?",
+    "options_en": ["Heart", "Lungs", "Brain", "Stomach"],
+    "options_ta": ["இதயம்", "நுரையீரல்", "மூளை", "வயிறு"],
+    "answer": 2
+  },
+  {
+    "level": "Beginner",
+    "question_en": "What is the main source of energy for Earth?",
+    "question_ta": "பூமிக்கான முக்கிய ஆற்றல் ஆதாரம் எது?",
+    "options_en": ["Moon", "Sun", "Wind", "Water"],
+    "options_ta": ["நிலா", "சூரியன்", "காற்று", "தண்ணீர்"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which planet is the largest in our solar system?",
+    "question_ta": "எங்கள் சூரியக் குடும்பத்தில் மிகப்பெரிய கோள் எது?",
+    "options_en": ["Earth", "Jupiter", "Saturn", "Uranus"],
+    "options_ta": ["பூமி", "வியாழன்", "சனி", "இராணி"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "What is the process by which plants make food using sunlight?",
+    "question_ta": "தாவரங்கள் சூரிய ஒளியைப் பயன்படுத்தி உணவை தயாரிக்கும் செயல்முறை எது?",
+    "options_en": ["Respiration", "Photosynthesis", "Digestion", "Fermentation"],
+    "options_ta": ["சுவாசம்", "ஒளிச்சேர்க்கை", "செரிமானம்", "காய்ச்சல்"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which gas do humans exhale?",
+    "question_ta": "மனிதர்கள் வெளியேற்றும் வாயு எது?",
+    "options_en": ["Oxygen", "Nitrogen", "Carbon dioxide", "Helium"],
+    "options_ta": ["ஆக்சிஜன்", "நைட்ரஜன்", "கார்பன் டைஆக்சைடு", "ஹீலியம்"],
+    "answer": 2
+  },
+  {
+    "level": "Beginner",
+    "question_en": "How many bones are there in an adult human body?",
+    "question_ta": "வயதான மனித உடலில் எத்தனை எலும்புகள் உள்ளன?",
+    "options_en": ["106", "206", "306", "406"],
+    "options_ta": ["106", "206", "306", "406"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which is the smallest planet in our solar system?",
+    "question_ta": "எங்கள் சூரியக் குடும்பத்தில் சிறிய கோள் எது?",
+    "options_en": ["Mercury", "Mars", "Venus", "Pluto"],
+    "options_ta": ["புதன்", "செவ்வாய்", "வெள்ளி", "புளுடோ"],
+    "answer": 0
+  },
+  {
+    "level": "Beginner",
+    "question_en": "What part of the cell contains genetic material?",
+    "question_ta": "செல்லின் எந்த பகுதி மரபணு பொருளை கொண்டுள்ளது?",
+    "options_en": ["Nucleus", "Cytoplasm", "Cell wall", "Mitochondria"],
+    "options_ta": ["நியூக்ளியஸ்", "சைட்டோபிளாசம்", "செல் சுவர்", "மைட்டோகாண்ட்ரியா"],
+    "answer": 0
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which organ helps humans to breathe?",
+    "question_ta": "மனிதர்கள் சுவாசிக்க உதவும் உறுப்பு எது?",
+    "options_en": ["Lungs", "Heart", "Liver", "Kidney"],
+    "options_ta": ["நுரையீரல்", "இதயம்", "கல்லீரல்", "சிறுநீரகம்"],
+    "answer": 0
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which planet is known for its rings?",
+    "question_ta": "மாலைகள் கொண்ட கோள் எது?",
+    "options_en": ["Mars", "Jupiter", "Saturn", "Neptune"],
+    "options_ta": ["செவ்வாய்", "வியாழன்", "சனி", "நெப்டியூன்"],
+    "answer": 2
+  },
+  {
+    "level": "Beginner",
+    "question_en": "What is the boiling point of water?",
+    "question_ta": "தண்ணீரின் கொதிநிலை எவ்வளவு?",
+    "options_en": ["0°C", "50°C", "100°C", "150°C"],
+    "options_ta": ["0°C", "50°C", "100°C", "150°C"],
+    "answer": 2
+  },
+
+  {
+    "level": "Beginner",
+    "question_en": "What is the basic unit of life?",
+    "question_ta": "உயிரின் அடிப்படை அலகு எது?",
+    "options_en": ["Cell", "Tissue", "Organ", "System"],
+    "options_ta": ["செல்", "திசு", "உறுப்பு", "அமைப்பு"],
+    "answer": 0
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which planet is called the Blue Planet?",
+    "question_ta": "நீல கோள் என்று அழைக்கப்படும் கோள் எது?",
+    "options_en": ["Earth", "Neptune", "Uranus", "Venus"],
+    "options_ta": ["பூமி", "நெப்டியூன்", "இராணி", "வெள்ளி"],
+    "answer": 0
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which force pulls objects towards the Earth?",
+    "question_ta": "பொருள்களை பூமி நோக்கி இழுக்கும் விசை எது?",
+    "options_en": ["Friction", "Magnetism", "Gravity", "Electricity"],
+    "options_ta": ["உராய்வு", "காந்தம்", "ஈர்ப்பு விசை", "மின்சாரம்"],
+    "answer": 2
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which organ helps in filtering blood?",
+    "question_ta": "இரத்தத்தை வடிகட்டும் உறுப்பு எது?",
+    "options_en": ["Liver", "Kidney", "Heart", "Lungs"],
+    "options_ta": ["கல்லீரல்", "சிறுநீரகம்", "இதயம்", "நுரையீரல்"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "What is the natural satellite of Earth?",
+    "question_ta": "பூமியின் இயற்கை செயற்கைக்கோள் எது?",
+    "options_en": ["Mars", "Moon", "Venus", "Sun"],
+    "options_ta": ["செவ்வாய்", "நிலா", "வெள்ளி", "சூரியன்"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which instrument is used to measure temperature?",
+    "question_ta": "வெப்பநிலையை அளவிட எந்த கருவி பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Barometer", "Thermometer", "Hygrometer", "Compass"],
+    "options_ta": ["பரோமீட்டர்", "தெர்மோமீட்டர்", "ஹைக்ரோமீட்டர்", "கம்பஸ்"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "What type of star is the Sun?",
+    "question_ta": "சூரியன் எந்த வகை நட்சத்திரம்?",
+    "options_en": ["Neutron star", "Red giant", "Yellow dwarf", "White dwarf"],
+    "options_ta": ["நியூட்ரான் நட்சத்திரம்", "சிவப்பு பருமன்", "மஞ்சள் குள்ளன்", "வெள்ளை குள்ளன்"],
+    "answer": 2
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which gas is commonly used to fill balloons?",
+    "question_ta": "பலூன்களை நிரப்ப பொதுவாக பயன்படுத்தப்படும் வாயு எது?",
+    "options_en": ["Oxygen", "Nitrogen", "Carbon dioxide", "Helium"],
+    "options_ta": ["ஆக்சிஜன்", "நைட்ரஜன்", "கார்பன் டைஆக்சைடு", "ஹீலியம்"],
+    "answer": 3
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which part of the plant absorbs water and minerals?",
+    "question_ta": "தாவரத்தின் எந்த பகுதி நீர் மற்றும் கனிமங்களை உறிஞ்சுகிறது?",
+    "options_en": ["Stem", "Leaf", "Root", "Flower"],
+    "options_ta": ["தண்டு", "இலை", "வேர்", "மலர்"],
+    "answer": 2
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which human organ is also called the 'windpipe'?",
+    "question_ta": "மனித உடலில் 'காற்றுக்குழாய்' என்று அழைக்கப்படும் உறுப்பு எது?",
+    "options_en": ["Trachea", "Esophagus", "Bronchi", "Larynx"],
+    "options_ta": ["ட்ரேக்கியா", "எசோபேகஸ்", "பிராங்கை", "லாரிங்க்ஸ்"],
+    "answer": 0
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which star guides sailors at night?",
+    "question_ta": "இரவில் கப்பல் ஓட்டிகளுக்கு வழிகாட்டும் நட்சத்திரம் எது?",
+    "options_en": ["Polaris", "Sirius", "Orion", "Betelgeuse"],
+    "options_ta": ["போலாரிஸ்", "சிரியஸ்", "ஒரியன்", "பெடல்கியூஸ்"],
+    "answer": 0
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which type of energy comes from moving water?",
+    "question_ta": "இயங்கும் நீரிலிருந்து கிடைக்கும் ஆற்றல் எது?",
+    "options_en": ["Solar energy", "Hydropower", "Nuclear energy", "Wind energy"],
+    "options_ta": ["சூரிய ஆற்றல்", "நீர்மின் ஆற்றல்", "அணு ஆற்றல்", "காற்றாலை ஆற்றல்"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which gas is used by plants during photosynthesis?",
+    "question_ta": "ஒளிச்சேர்க்கையின் போது தாவரங்கள் பயன்படுத்தும் வாயு எது?",
+    "options_en": ["Oxygen", "Carbon dioxide", "Nitrogen", "Helium"],
+    "options_ta": ["ஆக்சிஜன்", "கார்பன் டைஆக்சைடு", "நைட்ரஜன்", "ஹீலியம்"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "What is the largest organ in the human body?",
+    "question_ta": "மனித உடலில் மிகப்பெரிய உறுப்பு எது?",
+    "options_en": ["Liver", "Brain", "Skin", "Heart"],
+    "options_ta": ["கல்லீரல்", "மூளை", "சருமம்", "இதயம்"],
+    "answer": 2
+  },
+  {
+    "level": "Beginner",
+    "question_en": "What do bees collect from flowers to make honey?",
+    "question_ta": "தேனீக்கள் மலர்களில் இருந்து தேன் தயாரிக்க எதைச் சேகரிக்கின்றன?",
+    "options_en": ["Pollen", "Nectar", "Petals", "Seeds"],
+    "options_ta": ["மகரந்தம்", "மகரந்த சாறு", "மலர் இதழ்கள்", "விதைகள்"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which planet is known as the twin of Earth?",
+    "question_ta": "பூமியின் இரட்டையன் என்று அழைக்கப்படும் கோள் எது?",
+    "options_en": ["Mars", "Venus", "Mercury", "Uranus"],
+    "options_ta": ["செவ்வாய்", "வெள்ளி", "புதன்", "இராணி"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which organ of the human body produces insulin?",
+    "question_ta": "மனித உடலில் இன்சுலின் உற்பத்தி செய்யும் உறுப்பு எது?",
+    "options_en": ["Liver", "Pancreas", "Kidney", "Stomach"],
+    "options_ta": ["கல்லீரல்", "அகப்பை", "சிறுநீரகம்", "வயிறு"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which gas is necessary for photosynthesis?",
+    "question_ta": "ஒளிச்சேர்க்கைக்கு அவசியமான வாயு எது?",
+    "options_en": ["Oxygen", "Nitrogen", "Carbon dioxide", "Methane"],
+    "options_ta": ["ஆக்சிஜன்", "நைட்ரஜன்", "கார்பன் டைஆக்சைடு", "மீத்தேன்"],
+    "answer": 2
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which part of the eye controls the amount of light entering?",
+    "question_ta": "கண்ணில் உள்ளே வரும் ஒளியின் அளவை கட்டுப்படுத்தும் பகுதி எது?",
+    "options_en": ["Lens", "Iris", "Retina", "Cornea"],
+    "options_ta": ["லென்ஸ்", "ஐரிஸ்", "ரெட்டினா", "கோர்னியா"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which is the smallest bone in the human body?",
+    "question_ta": "மனித உடலில் சிறிய எலும்பு எது?",
+    "options_en": ["Stapes", "Femur", "Rib", "Phalanges"],
+    "options_ta": ["ஸ்டேப்ஸ்", "ஃபீமர்", "விலா எலும்பு", "விரல் எலும்புகள்"],
+    "answer": 0
+  },
+  
+  {
+    "level": "Beginner",
+    "question_en": "What are the three states of matter?",
+    "question_ta": "பொருளின் மூன்று நிலைகள் எவை?",
+    "options_en": ["Solid, Liquid, Gas", "Liquid, Gas, Plasma", "Solid, Plasma, Gas", "Liquid, Solid, Metal"],
+    "options_ta": ["திடம், திரவம், வாயு", "திரவம், வாயு, பிளாஸ்மா", "திடம், பிளாஸ்மா, வாயு", "திரவம், திடம், உலோகம்"],
+    "answer": 0
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which method is used to separate salt from seawater?",
+    "question_ta": "கடல்நீரிலிருந்து உப்பை பிரிக்க எந்த முறை பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Filtration", "Evaporation", "Sedimentation", "Distillation"],
+    "options_ta": ["வடிகட்டி", "ஆவியாக்கம்", "அடைவு", "சுருக்கல்"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "What is the chemical formula of water?",
+    "question_ta": "நீரின் வேதியியல் வாய்ப்பாடு எது?",
+    "options_en": ["O2", "CO2", "H2O", "NaCl"],
+    "options_ta": ["O2", "CO2", "H2O", "NaCl"],
+    "answer": 2
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Who discovered the nucleus of an atom?",
+    "question_ta": "அணுவின் நியூக்ளியஸை யார் கண்டுபிடித்தார்?",
+    "options_en": ["J.J. Thomson", "Rutherford", "Bohr", "Dalton"],
+    "options_ta": ["ஜே.ஜே. தாம்சன்", "ரதர்ஃபோர்டு", "போர்", "டால்டன்"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "What is the basic structural and functional unit of life?",
+    "question_ta": "வாழ்க்கையின் அடிப்படை கட்டமைப்பு மற்றும் செயல்பாட்டு அலகு எது?",
+    "options_en": ["Tissue", "Cell", "Organ", "Organ system"],
+    "options_ta": ["திசு", "செல்", "உறுப்பு", "உறுப்பு அமைப்பு"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which pigment in plants is responsible for photosynthesis?",
+    "question_ta": "தாவரங்களில் ஒளிச்சேர்க்கைக்கு பொறுப்பான நிறமி எது?",
+    "options_en": ["Carotene", "Chlorophyll", "Xanthophyll", "Anthocyanin"],
+    "options_ta": ["கரோட்டின்", "குளோரோபில்", "ஜாந்தோபில்", "ஆந்தோசயனின்"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which tissue connects bones to bones?",
+    "question_ta": "எலும்புகளை எலும்புகளுடன் இணைக்கும் திசு எது?",
+    "options_en": ["Tendons", "Ligaments", "Cartilage", "Muscles"],
+    "options_ta": ["நரம்புத்தண்டு", "சுவட்டு", "எலும்புத்தண்டு", "தசைகள்"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "What is the SI unit of speed?",
+    "question_ta": "வேகத்தின் எஸ்.ஐ அலகு எது?",
+    "options_en": ["m/s", "m/s²", "Newton", "Joule"],
+    "options_ta": ["மீ/வ", "மீ/வ²", "நியூட்டன்", "ஜூல்"],
+    "answer": 0
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which force pulls objects towards Earth?",
+    "question_ta": "பொருட்களை பூமியினை நோக்கி இழுக்கும் விசை எது?",
+    "options_en": ["Friction", "Magnetism", "Gravity", "Electric force"],
+    "options_ta": ["உராய்வு", "காந்தம்", "இயற்பியல் ஈர்ப்பு", "மின்விசை"],
+    "answer": 2
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Who discovered the law of gravitation?",
+    "question_ta": "ஈர்ப்பு விசை விதியை யார் கண்டுபிடித்தார்?",
+    "options_en": ["Einstein", "Newton", "Galileo", "Kepler"],
+    "options_ta": ["ஐன்ஸ்டீன்", "நியூட்டன்", "கலிலியோ", "கெப்ளர்"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "What is the SI unit of work?",
+    "question_ta": "வேலையின் எஸ்.ஐ அலகு எது?",
+    "options_en": ["Joule", "Newton", "Watt", "Pascal"],
+    "options_ta": ["ஜூல்", "நியூட்டன்", "வாட்", "பாஸ்கல்"],
+    "answer": 0
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which wave is responsible for sound propagation?",
+    "question_ta": "ஒலி பரவுவதற்கு எந்த அலை பொறுப்பாக உள்ளது?",
+    "options_en": ["Transverse wave", "Longitudinal wave", "Electromagnetic wave", "Stationary wave"],
+    "options_ta": ["அடித்தட்டு அலை", "நீளவியல் அலை", "மின்காந்த அலை", "நிலைய அலை"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which gas is known as 'ozone'?",
+    "question_ta": "எந்த வாயு 'ஓசோன்' என அழைக்கப்படுகிறது?",
+    "options_en": ["O2", "O3", "CO2", "N2"],
+    "options_ta": ["O2", "O3", "CO2", "N2"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which disease is caused by deficiency of Vitamin C?",
+    "question_ta": "வைட்டமின் C பற்றாக்குறையால் ஏற்படும் நோய் எது?",
+    "options_en": ["Rickets", "Scurvy", "Goitre", "Anaemia"],
+    "options_ta": ["ரிக்கெட்ஸ்", "ஸ்கர்வி", "காய்டர்", "அரத்த சோகை"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which nutrient is known as body-building food?",
+    "question_ta": "உடல் கட்டுமான உணவாக அறியப்படும் ஊட்டச்சத்து எது?",
+    "options_en": ["Carbohydrates", "Proteins", "Fats", "Vitamins"],
+    "options_ta": ["கார்போஹைட்ரேட்டுகள்", "புரதங்கள்", "கொழுப்புகள்", "வைட்டமின்கள்"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "What is the SI unit of electric current?",
+    "question_ta": "மின்சார ஓட்டத்தின் எஸ்.ஐ அலகு எது?",
+    "options_en": ["Volt", "Ampere", "Ohm", "Coulomb"],
+    "options_ta": ["வோல்ட்", "ஆம்பியர்", "ஓம்", "கூலோம்"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which natural resource is called 'fossil fuel'?",
+    "question_ta": "‘பாறை எரிபொருள்’ என அழைக்கப்படும் இயற்கை வளம் எது?",
+    "options_en": ["Coal", "Water", "Air", "Forest"],
+    "options_ta": ["நிலக்கரி", "தண்ணீர்", "காற்று", "காடு"],
+    "answer": 0
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which microorganism causes tuberculosis?",
+    "question_ta": "காசநோயை ஏற்படுத்தும் நுண்ணுயிரி எது?",
+    "options_en": ["Virus", "Fungus", "Bacterium", "Protozoa"],
+    "options_ta": ["வைரஸ்", "பூஞ்சை", "பாக்டீரியா", "புரோட்டோசோவா"],
+    "answer": 2
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which process increases food production using high-yielding varieties?",
+    "question_ta": "அதிக விளைச்சல் தரும் வகைகளைப் பயன்படுத்தி உணவு உற்பத்தியை அதிகரிக்கும் செயல்முறை எது?",
+    "options_en": ["Irrigation", "Green Revolution", "Manuring", "Storage"],
+    "options_ta": ["நீர்ப்பாசனம்", "பசுமைப் புரட்சி", "உரமிடல்", "சேமிப்பு"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which crop improves soil fertility by fixing nitrogen?",
+    "question_ta": "நைட்ரஜனை உறிஞ்சி மண் வளத்தை மேம்படுத்தும் பயிர் எது?",
+    "options_en": ["Wheat", "Rice", "Pulses", "Sugarcane"],
+    "options_ta": ["கோதுமை", "அரிசி", "பருப்பு", "கரும்பு"],
+    "answer": 2
+  },
+  {
+    "level": "Beginner",
+    "question_en": "What is the SI unit of electric current?",
+    "question_ta": "மின்சார ஓட்டத்தின் எஸ்.ஐ அலகு எது?",
+    "options_en": ["Volt", "Ampere", "Ohm", "Coulomb"],
+    "options_ta": ["வோல்ட்", "ஆம்பியர்", "ஓம்", "கூலோம்"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "A current of 2 A flows through a wire for 5 seconds. How much charge flows?",
+    "question_ta": "ஒரு கம்பியில் 2 A மினோட்டம் 5 விநாடிகள் பாய்கிறது. எவ்வளவு மின்னூட்டம் பாய்கிறது?",
+    "options_en": ["2 C", "5 C", "10 C", "20 C"],
+    "options_ta": ["2 கூலோம்", "5 கூலோம்", "10 கூலோம்", "20 கூலோம்"],
+    "answer": 2
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which acid is present in the stomach?",
+    "question_ta": "வயிற்றில் எந்த அமிலம் உள்ளது?",
+    "options_en": ["Nitric acid", "Sulphuric acid", "Hydrochloric acid", "Carbonic acid"],
+    "options_ta": ["நைட்ரிக் அமிலம்", "சல்ப்யூரிக் அமிலம்", "ஹைட்ரோகுளோரிக் அமிலம்", "கார்போனிக் அமிலம்"],
+    "answer": 2
+  },
+  {
+    "level": "Beginner",
+    "question_en": "If a 60 W bulb glows for 1 hour, how much energy is consumed?",
+    "question_ta": "60 வாட் விளக்கு 1 மணி நேரம் எரிந்தால், எவ்வளவு ஆற்றல் பயன்படுத்தப்படுகிறது?",
+    "options_en": ["60 J", "600 J", "216000 J", "3600 J"],
+    "options_ta": ["60 ஜூல்", "600 ஜூல்", "216000 ஜூல்", "3600 ஜூல்"],
+    "answer": 2
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which part of the plant carries food?",
+    "question_ta": "தாவரத்தின் எந்த பகுதி உணவை கடத்துகிறது?",
+    "options_en": ["Xylem", "Phloem", "Root", "Chloroplast"],
+    "options_ta": ["ஜைலம்", "புளோயம்", "வேர்", "குளோரோபிளாஸ்ட்"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "What is the chemical formula of washing soda?",
+    "question_ta": "வாட்டர் சோடாவின் வேதியியல் வாய்ப்பாடு என்ன?",
+    "options_en": ["Na2CO3.10H2O", "NaHCO3", "CaCO3", "NaCl"],
+    "options_ta": ["Na2CO3.10H2O", "NaHCO3", "CaCO3", "NaCl"],
+    "answer": 0
+  },
+  {
+    "level": "Beginner",
+    "question_en": "A concave mirror forms an image 20 cm away when the object is 30 cm away. Find the focal length.",
+    "question_ta": "ஒரு உள்ளிழுக்கும் கண்ணாடி 30 செ.மீ தூரத்தில் பொருள் இருக்கும்போது, 20 செ.மீ தூரத்தில் உருவம் தருகிறது. அதன் குவியநிலை என்ன?",
+    "options_en": ["10 cm", "12 cm", "15 cm", "20 cm"],
+    "options_ta": ["10 செ.மீ", "12 செ.மீ", "15 செ.மீ", "20 செ.மீ"],
+    "answer": 2
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which gas is released during photosynthesis?",
+    "question_ta": "ஒளிச்சேர்க்கையின் போது எந்த வாயு வெளியிடப்படுகிறது?",
+    "options_en": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "options_ta": ["கார்பன் டையாக்சைடு", "ஆக்சிஜன்", "நைட்ரஜன்", "ஹைட்ரஜன்"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "What is the universal solvent?",
+    "question_ta": "பொதுவான கரைப்பான் எது?",
+    "options_en": ["Alcohol", "Water", "Acid", "Salt"],
+    "options_ta": ["ஆல்கஹால்", "தண்ணீர்", "அமிலம்", "உப்பு"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "If resistance is 5 ohm and current is 2 A, what is the voltage? (V = IR)",
+    "question_ta": "எதிர்ப்பு 5 ஓம் மற்றும் மினோட்டம் 2 A என்றால் மின்னழுத்தம் என்ன? (V = IR)",
+    "options_en": ["2 V", "5 V", "10 V", "15 V"],
+    "options_ta": ["2 வோல்ட்", "5 வோல்ட்", "10 வோல்ட்", "15 வோல்ட்"],
+    "answer": 2
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which acid is found in lemon?",
+    "question_ta": "எலுமிச்சையில் எந்த அமிலம் உள்ளது?",
+    "options_en": ["Tartaric acid", "Acetic acid", "Citric acid", "Lactic acid"],
+    "options_ta": ["டார்டாரிக் அமிலம்", "அசிட்டிக் அமிலம்", "சிட்ரிக் அமிலம்", "லாக்டிக் அமிலம்"],
+    "answer": 2
+  },
+  {
+    "level": "Beginner",
+    "question_en": "What is the speed of light in vacuum?",
+    "question_ta": "வெற்றிடத்தில் ஒளியின் வேகம் என்ன?",
+    "options_en": ["3 × 10^6 m/s", "3 × 10^7 m/s", "3 × 10^8 m/s", "3 × 10^9 m/s"],
+    "options_ta": ["3 × 10^6 மீ/வ", "3 × 10^7 மீ/வ", "3 × 10^8 மீ/வ", "3 × 10^9 மீ/வ"],
+    "answer": 2
+  },
+  {
+    "level": "Beginner",
+    "question_en": "A force of 10 N moves an object 2 m. What is the work done?",
+    "question_ta": "10 N விசை ஒரு பொருளை 2 மீ நகர்த்துகிறது. செய்யப்படும் வேலை என்ன?",
+    "options_en": ["5 J", "10 J", "15 J", "20 J"],
+    "options_ta": ["5 ஜூல்", "10 ஜூல்", "15 ஜூல்", "20 ஜூல்"],
+    "answer": 3
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which part of the human eye controls the amount of light entering?",
+    "question_ta": "மனிதக் கண்களில் ஒளி நுழைவதை கட்டுப்படுத்தும் பகுதி எது?",
+    "options_en": ["Cornea", "Pupil", "Lens", "Retina"],
+    "options_ta": ["கார்னியா", "ப்யூபில்", "லென்ஸ்", "ரெட்டினா"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which type of lens is used to correct myopia?",
+    "question_ta": "குறுக்குப் பார்வையை சரிசெய்ய எந்த வகை லென்ஸ் பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Convex lens", "Concave lens", "Cylindrical lens", "Plano lens"],
+    "options_ta": ["வெளிவிழுக்கும் லென்ஸ்", "உள்ளிழுக்கும் லென்ஸ்", "உருளை லென்ஸ்", "பிளானோ லென்ஸ்"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "If a solution has pH = 2, it is?",
+    "question_ta": "ஒரு கரைசலின் pH = 2 என்றால் அது என்ன?",
+    "options_en": ["Neutral", "Strongly acidic", "Weakly acidic", "Basic"],
+    "options_ta": ["நடுநிலை", "வலுவான அமிலம்", "பலவீன அமிலம்", "அடிப்படை"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which gas is used in the preparation of soda water?",
+    "question_ta": "சோடா வாட்டர் தயாரிப்பில் எந்த வாயு பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Oxygen", "Carbon dioxide", "Hydrogen", "Nitrogen"],
+    "options_ta": ["ஆக்சிஜன்", "கார்பன் டையாக்சைடு", "ஹைட்ரஜன்", "நைட்ரஜன்"],
+    "answer": 1
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which part of the human ear helps in maintaining balance?",
+    "question_ta": "மனிதக் காதின் எந்த பகுதி சமநிலையை பராமரிக்க உதவுகிறது?",
+    "options_en": ["Cochlea", "Eardrum", "Semicircular canals", "Auditory nerve"],
+    "options_ta": ["கோக்ளியா", "காதுத்தட்டு", "அரையசை குழாய்கள்", "கேட்புணர்வு நரம்பு"],
+    "answer": 2
+  },
+  {
+    "level": "Beginner",
+    "question_en": "Which metal is liquid at room temperature?",
+    "question_ta": "அறை வெப்பநிலையில் திரவமாக உள்ள உலோகம் எது?",
+    "options_en": ["Iron", "Mercury", "Aluminium", "Copper"],
+    "options_ta": ["இரும்பு", "பாரா", "அலுமினியம்", "செம்பு"],
+    "answer": 1
+  },
+
+
+  {
+    "level": "Intermediate",
+    "question_en": "What is the boiling point of water at sea level?",
+    "question_ta": "கடல் மட்டத்தில் தண்ணீரின் கொதிநிலை எவ்வளவு?",
+    "options_en": ["50°C", "100°C", "150°C", "200°C"],
+    "options_ta": ["50°C", "100°C", "150°C", "200°C"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which organ in the human body purifies blood?",
+    "question_ta": "மனித உடலில் இரத்தத்தை சுத்திகரிக்கும் உறுப்பு எது?",
+    "options_en": ["Heart", "Kidney", "Lungs", "Liver"],
+    "options_ta": ["இதயம்", "சிறுநீரகம்", "நுரையீரல்", "கல்லீரல்"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "What is the SI unit of force?",
+    "question_ta": "வலுவின் எஸ்.ஐ அலகு எது?",
+    "options_en": ["Joule", "Newton", "Pascal", "Watt"],
+    "options_ta": ["ஜூல்", "நியூட்டன்", "பாஸ்கல்", "வாட்"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which planet rotates from east to west?",
+    "question_ta": "எந்த கோள் கிழக்கிலிருந்து மேற்காக சுழல்கிறது?",
+    "options_en": ["Venus", "Mars", "Earth", "Saturn"],
+    "options_ta": ["சுக்கிரன்", "செவ்வாய்", "பூமி", "சனி"],
+    "answer": 0
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which is the largest organ in the human body?",
+    "question_ta": "மனித உடலின் மிகப்பெரிய உறுப்பு எது?",
+    "options_en": ["Heart", "Skin", "Liver", "Lungs"],
+    "options_ta": ["இதயம்", "தோல்", "கல்லீரல்", "நுரையீரல்"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "What do you call animals that eat only plants?",
+    "question_ta": "தாவரங்களையே உண்ணும் விலங்குகளை என்னவென்று அழைக்கிறோம்?",
+    "options_en": ["Carnivores", "Herbivores", "Omnivores", "Scavengers"],
+    "options_ta": ["மாமிசவிலங்குகள்", "மூலிகைவிலங்குகள்", "இருவகை விலங்குகள்", "சாக்கடைவிலங்குகள்"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which blood cells fight infections?",
+    "question_ta": "தொற்றுகளை எதிர்க்கும் இரத்த அணுக்கள் எது?",
+    "options_en": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+    "options_ta": ["சிவப்பு இரத்த அணுக்கள்", "வெள்ளை இரத்த அணுக்கள்", "இரத்த தகடுகள்", "பிளாஸ்மா"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which planet is farthest from the Sun?",
+    "question_ta": "சூரியனுக்கு மிகத் தூரத்தில் உள்ள கோள் எது?",
+    "options_en": ["Neptune", "Saturn", "Uranus", "Pluto"],
+    "options_ta": ["வருணன்", "சனி", "உரேனஸ்", "புளுடோ"],
+    "answer": 0
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "What is the chemical formula of table salt?",
+    "question_ta": "உப்பின் இரசாயன வாய்பாடு எது?",
+    "options_en": ["Na2CO3", "NaCl", "HCl", "KCl"],
+    "options_ta": ["Na2CO3", "NaCl", "HCl", "KCl"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which planet has the largest number of moons?",
+    "question_ta": "அதிக சந்திரன்கள் கொண்டிருக்கும் கோள் எது?",
+    "options_en": ["Mars", "Jupiter", "Saturn", "Neptune"],
+    "options_ta": ["செவ்வாய்", "குரு", "சனி", "வருணன்"],
+    "answer": 2
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "What is the SI unit of energy?",
+    "question_ta": "ஆற்றலின் எஸ்.ஐ அலகு எது?",
+    "options_en": ["Watt", "Newton", "Pascal", "Joule"],
+    "options_ta": ["வாட்", "நியூட்டன்", "பாஸ்கல்", "ஜூல்"],
+    "answer": 3
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which gas is used by plants for photosynthesis?",
+    "question_ta": "ஒளிச்சேர்க்கைக்கு தாவரங்கள் பயன்படுத்தும் வாயு எது?",
+    "options_en": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+    "options_ta": ["ஆக்சிஜன்", "கார்பன் டைஆக்சைடு", "நைட்ரஜன்", "ஹைட்ரஜன்"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which vitamin is produced when the skin is exposed to sunlight?",
+    "question_ta": "தோல் சூரிய ஒளியில் வெளிப்படுத்தும் போது உற்பத்தியாகும் வைட்டமின் எது?",
+    "options_en": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin K"],
+    "options_ta": ["வைட்டமின் A", "வைட்டமின் C", "வைட்டமின் D", "வைட்டமின் K"],
+    "answer": 2
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "What type of energy is possessed by a moving object?",
+    "question_ta": "இயங்கும் பொருள் கொண்டிருக்கும் ஆற்றல் எது?",
+    "options_en": ["Potential energy", "Kinetic energy", "Thermal energy", "Nuclear energy"],
+    "options_ta": ["சாத்திய ஆற்றல்", "இயக்க ஆற்றல்", "வெப்ப ஆற்றல்", "அணு ஆற்றல்"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which gas causes the greenhouse effect?",
+    "question_ta": "பசுமைக் கூடுதல் விளைவை ஏற்படுத்தும் வாயு எது?",
+    "options_en": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+    "options_ta": ["ஆக்சிஜன்", "கார்பன் டைஆக்சைடு", "நைட்ரஜன்", "ஹைட்ரஜன்"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which force keeps the planets in orbit around the Sun?",
+    "question_ta": "கோள்களை சூரியனைச் சுற்றி சுற்றச் செய்யும் விசை எது?",
+    "options_en": ["Friction", "Magnetic force", "Gravitational force", "Electrostatic force"],
+    "options_ta": ["உராய்வு", "காந்த விசை", "இயற்பியல் ஈர்ப்பு விசை", "மின்காந்த விசை"],
+    "answer": 2
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "What is the main function of red blood cells?",
+    "question_ta": "சிவப்பு இரத்த அணுக்களின் முக்கிய பணி என்ன?",
+    "options_en": ["Fight infections", "Carry oxygen", "Clot blood", "Produce hormones"],
+    "options_ta": ["தொற்றுகளை எதிர்த்து", "ஆக்சிஜனை எடுத்துச் செல்லும்", "இரத்தம் உறையச் செய்வது", "ஹார்மோன்களை உற்பத்தி செய்கிறது"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which acid is present in the stomach?",
+    "question_ta": "வயிற்றில் உள்ள அமிலம் எது?",
+    "options_en": ["Sulfuric acid", "Hydrochloric acid", "Nitric acid", "Acetic acid"],
+    "options_ta": ["சல்பியூரிக் அமிலம்", "ஹைட்ரோகுளோரிக் அமிலம்", "நைட்ரிக் அமிலம்", "அசெட்டிக் அமிலம்"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which planet is called the 'Morning Star'?",
+    "question_ta": "'காலை நட்சத்திரம்' என்று அழைக்கப்படும் கோள் எது?",
+    "options_en": ["Mercury", "Venus", "Mars", "Saturn"],
+    "options_ta": ["புதன்", "வெள்ளி", "செவ்வாய்", "சனி"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which part of the cell contains genetic material?",
+    "question_ta": "செல்லில் மரபியல் பொருள் உள்ள பகுதி எது?",
+    "options_en": ["Cytoplasm", "Nucleus", "Mitochondria", "Ribosomes"],
+    "options_ta": ["செல் திரவம்", "நியூக்ளியஸ்", "மைட்டோகாண்ட்ரியா", "ரைபோசோம்கள்"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which process converts liquid water into water vapor?",
+    "question_ta": "திரவ நீரை நீராவியாக மாற்றும் செயல்முறை எது?",
+    "options_en": ["Condensation", "Evaporation", "Precipitation", "Sublimation"],
+    "options_ta": ["தொகைபடுதல்", "ஆவியாக்கம்", "மழை", "உயர்வு மாற்றம்"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which vitamin is produced in the skin when exposed to sunlight?",
+    "question_ta": "சூரிய வெளிச்சத்தில் தோலில் உருவாகும் வைட்டமின் எது?",
+    "options_en": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "options_ta": ["வைட்டமின் A", "வைட்டமின் B", "வைட்டமின் C", "வைட்டமின் D"],
+    "answer": 3
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which gas is used by plants during photosynthesis?",
+    "question_ta": "ஒளிச்சேர்க்கையின் போது தாவரங்கள் பயன்படுத்தும் வாயு எது?",
+    "options_en": ["Oxygen", "Carbon dioxide", "Nitrogen", "Methane"],
+    "options_ta": ["ஆக்சிஜன்", "கார்பன் டைஆக்சைடு", "நைட்ரஜன்", "மீத்தேன்"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "What type of energy is stored in food?",
+    "question_ta": "உணவில் சேமிக்கப்பட்டிருக்கும் ஆற்றல் எது?",
+    "options_en": ["Kinetic energy", "Potential energy", "Chemical energy", "Thermal energy"],
+    "options_ta": ["இயக்க ஆற்றல்", "மூலாதார ஆற்றல்", "வேதி ஆற்றல்", "வெப்ப ஆற்றல்"],
+    "answer": 2
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which instrument is used to measure temperature?",
+    "question_ta": "வெப்பநிலையை அளவிட எந்த கருவி பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Barometer", "Thermometer", "Hygrometer", "Anemometer"],
+    "options_ta": ["வளிமண்டலமானி", "வெப்பமானி", "ஈரப்பதமானி", "காற்றோட்டமானி"],
+    "answer": 1
+  },
+  
+  {
+    "level": "Intermediate",
+    "question_en": "Which blood cells help in fighting infections?",
+    "question_ta": "தொற்றுகளுக்கு எதிராக போராட உதவும் இரத்த அணுக்கள் எவை?",
+    "options_en": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+    "options_ta": ["சிவப்பணுக்கள்", "வெள்ளையணுக்கள்", "இரத்த தகடுகள்", "பிளாஸ்மா"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which planet has the fastest rotation in our solar system?",
+    "question_ta": "எங்கள் சூரியக் குடும்பத்தில் மிக வேகமாக சுழலும் கோள் எது?",
+    "options_en": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "options_ta": ["பூமி", "செவ்வாய்", "வியாழன்", "சனி"],
+    "answer": 2
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "What is the SI unit of force?",
+    "question_ta": "வலுவின் SI அலகு எது?",
+    "options_en": ["Newton", "Joule", "Pascal", "Watt"],
+    "options_ta": ["நியூட்டன்", "ஜூல்", "பாஸ்கல்", "வாட்"],
+    "answer": 0
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which organ in the human body produces bile?",
+    "question_ta": "மனித உடலில் பித்தச்சாறு உற்பத்தி செய்யும் உறுப்பு எது?",
+    "options_en": ["Liver", "Stomach", "Pancreas", "Kidney"],
+    "options_ta": ["கல்லீரல்", "வயிறு", "அகப்பை", "சிறுநீரகம்"],
+    "answer": 0
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "What is the chemical symbol for sodium?",
+    "question_ta": "சோடியத்தின் வேதியியல் குறியீடு எது?",
+    "options_en": ["S", "Na", "So", "Sd"],
+    "options_ta": ["S", "Na", "So", "Sd"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which gas is responsible for the greenhouse effect?",
+    "question_ta": "கிரீன்ஹவுஸ் விளைவுக்குப் பொறுப்பான வாயு எது?",
+    "options_en": ["Oxygen", "Carbon dioxide", "Nitrogen", "Helium"],
+    "options_ta": ["ஆக்சிஜன்", "கார்பன் டைஆக்சைடு", "நைட்ரஜன்", "ஹீலியம்"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "What is the powerhouse of the cell?",
+    "question_ta": "செல்லின் சக்தி நிலையம் எது?",
+    "options_en": ["Nucleus", "Mitochondria", "Ribosome", "Chloroplast"],
+    "options_ta": ["நியூக்ளியஸ்", "மைட்டோகாண்ட்ரியா", "ரைபோசோம்", "குளோரோபிளாஸ்ட்"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which planet is tilted on its side and rotates sideways?",
+    "question_ta": "எந்த கோள் பக்கவாட்டில் சாய்ந்து பக்கவாட்டாக சுழல்கிறது?",
+    "options_en": ["Venus", "Uranus", "Neptune", "Mercury"],
+    "options_ta": ["வெள்ளி", "இராணி", "நெப்டியூன்", "புதன்"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "What type of energy is stored in food?",
+    "question_ta": "உணவில் சேமிக்கப்பட்டுள்ள ஆற்றல் வகை எது?",
+    "options_en": ["Kinetic energy", "Potential energy", "Chemical energy", "Solar energy"],
+    "options_ta": ["இயக்க ஆற்றல்", "இருப்பு ஆற்றல்", "வேதியியல் ஆற்றல்", "சூரிய ஆற்றல்"],
+    "answer": 2
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which element is essential for the formation of hemoglobin?",
+    "question_ta": "ஹீமோகுளோபின் உருவாக எந்த மூலப்பொருள் அவசியமானது?",
+    "options_en": ["Calcium", "Iron", "Potassium", "Magnesium"],
+    "options_ta": ["கால்சியம்", "இரும்பு", "பொட்டாசியம்", "மக்னீசியம்"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "What is the process of liquid changing into gas called?",
+    "question_ta": "திரவம் வாயுவாக மாறும் செயல்முறை எது?",
+    "options_en": ["Condensation", "Evaporation", "Freezing", "Melting"],
+    "options_ta": ["திரவனாகுதல்", "ஆவியாகுதல்", "உறைதல்", "உருகுதல்"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which blood group is known as the universal donor?",
+    "question_ta": "உலகளாவிய தானளிப்பாளராக அறியப்படும் இரத்த வகை எது?",
+    "options_en": ["A", "B", "O negative", "AB positive"],
+    "options_ta": ["A", "B", "O மைனஸ்", "AB பாசிட்டிவ்"],
+    "answer": 2
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which layer of the Earth contains magma?",
+    "question_ta": "பூமியின் எந்த அடுக்கு மாக்மாவை கொண்டுள்ளது?",
+    "options_en": ["Crust", "Mantle", "Outer core", "Inner core"],
+    "options_ta": ["அடித்தட்டு", "மண்டலம்", "வெளி மையம்", "உள் மையம்"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which vitamin is produced in the skin with the help of sunlight?",
+    "question_ta": "சூரிய ஒளியின் உதவியுடன் சருமத்தில் உற்பத்தியாகும் வைட்டமின் எது?",
+    "options_en": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "options_ta": ["வைட்டமின் A", "வைட்டமின் B", "வைட்டமின் C", "வைட்டமின் D"],
+    "answer": 3
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which scientist proposed the three laws of motion?",
+    "question_ta": "இயக்கத்தின் மூன்று விதிகளை முன்வைத்த விஞ்ஞானி யார்?",
+    "options_en": ["Einstein", "Newton", "Galileo", "Kepler"],
+    "options_ta": ["ஐன்ஸ்டீன்", "நியூட்டன்", "கலிலியோ", "கேப்ளர்"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "What is the main gas present in Earth's atmosphere?",
+    "question_ta": "பூமியின் வளிமண்டலத்தில் அதிகம் காணப்படும் வாயு எது?",
+    "options_en": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+    "options_ta": ["ஆக்சிஜன்", "நைட்ரஜன்", "கார்பன் டைஆக்சைடு", "ஹைட்ரஜன்"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "What is the study of earthquakes called?",
+    "question_ta": "நிலநடுக்கங்களைப் பற்றிய ஆய்வு எவ்வாறு அழைக்கப்படுகிறது?",
+    "options_en": ["Meteorology", "Seismology", "Geology", "Astronomy"],
+    "options_ta": ["வானிலை ஆய்வு", "நிலநடுக்கவியல்", "புவியியல்", "வானியல்"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which gas is used in fire extinguishers?",
+    "question_ta": "தீ அணைப்பிகளில் பயன்படுத்தப்படும் வாயு எது?",
+    "options_en": ["Oxygen", "Carbon dioxide", "Nitrogen", "Argon"],
+    "options_ta": ["ஆக்சிஜன்", "கார்பன் டைஆக்சைடு", "நைட்ரஜன்", "ஆர்கான்"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+    "question_ta": "'காலை நட்சத்திரம்' அல்லது 'மாலை நட்சத்திரம்' என்று அழைக்கப்படும் கோள் எது?",
+    "options_en": ["Mercury", "Venus", "Mars", "Jupiter"],
+    "options_ta": ["புதன்", "வெள்ளி", "செவ்வாய்", "வியாழன்"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "What is the main function of red blood cells?",
+    "question_ta": "சிவப்பணுக்களின் முக்கிய பணி எது?",
+    "options_en": ["Clotting", "Carrying oxygen", "Fighting infection", "Producing hormones"],
+    "options_ta": ["இரத்த உறைதல்", "ஆக்சிஜன் சுமத்தல்", "தொற்றை எதிர்த்தல்", "ஹார்மோன் உற்பத்தி"],
+    "answer": 1
+  },
+  
+  {
+    "level": "Intermediate",
+    "question_en": "What is the chemical formula of water?",
+    "question_ta": "தண்ணீரின் வேதியியல் வாய்ப்பாடு எது?",
+    "options_en": ["H2O", "CO2", "O2", "NaCl"],
+    "options_ta": ["H2O", "CO2", "O2", "NaCl"],
+    "answer": 0
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which vitamin is produced in the skin when exposed to sunlight?",
+    "question_ta": "சூரிய ஒளியில் தோலை வெளிப்படுத்தும்போது உற்பத்தியாகும் வைட்டமின் எது?",
+    "options_en": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin K"],
+    "options_ta": ["வைட்டமின் A", "வைட்டமின் C", "வைட்டமின் D", "வைட்டமின் K"],
+    "answer": 2
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which gas is known as laughing gas?",
+    "question_ta": "சிரிக்கும் வாயு என்று அழைக்கப்படும் வாயு எது?",
+    "options_en": ["Nitrous oxide", "Carbon monoxide", "Oxygen", "Hydrogen"],
+    "options_ta": ["நைட்ரஸ் ஆக்சைடு", "கார்பன் மானாக்சைடு", "ஆக்சிஜன்", "ஹைட்ரஜன்"],
+    "answer": 0
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "What type of blood cells fight against infections?",
+    "question_ta": "தொற்றுக்களுக்கு எதிராக போராடும் இரத்த அணுக்கள் எவை?",
+    "options_en": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+    "options_ta": ["சிவப்பு இரத்த அணுக்கள்", "வெள்ளை இரத்த அணுக்கள்", "இரத்த தட்டுகள்", "பிளாஸ்மா"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which part of the brain controls balance and posture?",
+    "question_ta": "மூளையின் எந்த பகுதி சமநிலையும் உடல்நிலையும் கட்டுப்படுத்துகிறது?",
+    "options_en": ["Cerebrum", "Cerebellum", "Medulla", "Hypothalamus"],
+    "options_ta": ["செரிப்ரம்", "செரிபல்லம்", "மெடுல்லா", "ஹைப்போத்தாலாமஸ்"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which organ in humans is affected by hepatitis?",
+    "question_ta": "மனிதர்களில் எது கல்லீரல் அழற்சியால் பாதிக்கப்படுகிறது?",
+    "options_en": ["Kidney", "Heart", "Liver", "Lungs"],
+    "options_ta": ["சிறுநீரகம்", "இதயம்", "கல்லீரல்", "நுரையீரல்"],
+    "answer": 2
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which layer of the atmosphere contains the ozone layer?",
+    "question_ta": "வளிமண்டலத்தின் எந்த அடுக்கில் ஓசோன் அடுக்கு உள்ளது?",
+    "options_en": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+    "options_ta": ["டிரோபோஸ்பியர்", "ஸ்ட்ராட்டோஸ்பியர்", "மேசோஸ்பியர்", "தெர்மோஸ்பியர்"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which planet has the largest number of moons?",
+    "question_ta": "அதிக நிலவுகளை கொண்டிருக்கும் கோள் எது?",
+    "options_en": ["Earth", "Jupiter", "Saturn", "Neptune"],
+    "options_ta": ["பூமி", "குரு", "சனி", "நெப்டியூன்"],
+    "answer": 2
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which acid is present in lemon?",
+    "question_ta": "எலுமிச்சையில் எந்த அமிலம் உள்ளது?",
+    "options_en": ["Acetic acid", "Citric acid", "Lactic acid", "Sulfuric acid"],
+    "options_ta": ["அசெட்டிக் அமிலம்", "சிட்ரிக் அமிலம்", "லாக்டிக் அமிலம்", "சல்பியூரிக் அமிலம்"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which blood group is called the universal donor?",
+    "question_ta": "உலகளாவிய தானியங்கியாக அழைக்கப்படும் இரத்த வகை எது?",
+    "options_en": ["A", "B", "AB", "O negative"],
+    "options_ta": ["A", "B", "AB", "O மைனஸ்"],
+    "answer": 3
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which part of the plant makes food using sunlight?",
+    "question_ta": "சூரியஒளியைப் பயன்படுத்தி தாவரத்தில் உணவு தயாரிக்கும் பகுதி எது?",
+    "options_en": ["Root", "Stem", "Leaf", "Flower"],
+    "options_ta": ["வேர்", "தண்டு", "இலை", "மலர்"],
+    "answer": 2
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which is the hardest substance in the human body?",
+    "question_ta": "மனித உடலில் கடினமான பொருள் எது?",
+    "options_en": ["Bone", "Tooth enamel", "Nails", "Cartilage"],
+    "options_ta": ["எலும்பு", "பற்களின் இனாமல்", "நகங்கள்", "முரட்டுத்திசு"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which organelle is called the powerhouse of the cell?",
+    "question_ta": "செல்லின் மின்நிலையம் என்று அழைக்கப்படும் ஒழுங்கமைப்பு எது?",
+    "options_en": ["Nucleus", "Mitochondria", "Ribosome", "Chloroplast"],
+    "options_ta": ["நியூக்ளியஸ்", "மைட்டோகாண்ட்ரியா", "ரைபோசோம்", "குளோரோபிளாஸ்ட்"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which is the smallest planet in the solar system?",
+    "question_ta": "சூரியக் குடும்பத்தில் சிறிய கோள் எது?",
+    "options_en": ["Mercury", "Mars", "Venus", "Pluto"],
+    "options_ta": ["புதன்", "செவ்வாய்", "வெள்ளி", "புளூட்டோ"],
+    "answer": 0
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "What is the boiling point of water at normal atmospheric pressure?",
+    "question_ta": "சாதாரண வளிமண்டல அழுத்தத்தில் தண்ணீரின் கொதிநிலை எது?",
+    "options_en": ["50°C", "75°C", "100°C", "120°C"],
+    "options_ta": ["50°C", "75°C", "100°C", "120°C"],
+    "answer": 2
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which part of the digestive system absorbs nutrients?",
+    "question_ta": "செரிமான மண்டலத்தின் எந்த பகுதி சத்துக்களை உறிஞ்சுகிறது?",
+    "options_en": ["Stomach", "Small intestine", "Large intestine", "Liver"],
+    "options_ta": ["வயிறு", "சிறுகுடல்", "பெருங்குடல்", "கல்லீரல்"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which element is needed for the production of thyroid hormones?",
+    "question_ta": "தைராய்டு ஹார்மோன்களை உற்பத்தி செய்ய தேவையான மூலப்பொருள் எது?",
+    "options_en": ["Iron", "Iodine", "Calcium", "Zinc"],
+    "options_ta": ["இரும்பு", "அயோடைன்", "கால்சியம்", "ஜிங்க்"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "What is the chemical symbol for gold?",
+    "question_ta": "தங்கத்தின் வேதியியல் குறியீடு எது?",
+    "options_en": ["Ag", "Au", "Pt", "Pb"],
+    "options_ta": ["Ag", "Au", "Pt", "Pb"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which organ in the human body stores bile?",
+    "question_ta": "மனித உடலில் பித்தம் சேமிக்கும் உறுப்பு எது?",
+    "options_en": ["Liver", "Gallbladder", "Pancreas", "Stomach"],
+    "options_ta": ["கல்லீரல்", "பித்தப்பை", "அகப்பை", "வயிறு"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which metal is liquid at room temperature?",
+    "question_ta": "அறை வெப்பநிலையில் திரவமாக இருக்கும் உலோகம் எது?",
+    "options_en": ["Mercury", "Iron", "Aluminium", "Copper"],
+    "options_ta": ["பாரசீகம்", "இரும்பு", "அலுமினியம்", "செம்பு"],
+    "answer": 0
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Why does ice float on water?",
+    "question_ta": "ஐஸ் ஏன் நீரில் மிதக்கிறது?",
+    "options_en": ["Because ice is heavier", "Because density of ice is less than water", "Because of air bubbles", "Because it dissolves in water"],
+    "options_ta": ["ஐஸ் கனமாக இருப்பதால்", "ஐஸின் அடர்த்தி நீரைவிட குறைவதால்", "காற்றுக் குமிழிகள் காரணமாக", "நீரில் கரைவதால்"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which separation method is used to separate dyes in ink?",
+    "question_ta": "மையில் உள்ள நிறங்களைப் பிரிக்க எந்த பிரிப்பு முறை பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Distillation", "Chromatography", "Filtration", "Centrifugation"],
+    "options_ta": ["சுருக்கல்", "குரோமடோகிராபி", "வடிகட்டி", "சென்ட்ரிஃப்யூஜ்"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which law explains that mass can neither be created nor destroyed in a chemical reaction?",
+    "question_ta": "வேதியியல் வினையில் பருமன் உருவாக்கப்படவோ அழிக்கப்படவோ முடியாது என்று விளக்கும் விதி எது?",
+    "options_en": ["Law of Constant Proportion", "Law of Conservation of Mass", "Boyle's Law", "Charles' Law"],
+    "options_ta": ["மாறாத விகித விதி", "பருமன் நிலைத்தன்மை விதி", "பாய்ல் விதி", "சார்ல்ஸ் விதி"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which particle in an atom has a negative charge?",
+    "question_ta": "அணுவில் எது எதிர்மறை மின்சாரத்தை உடையது?",
+    "options_en": ["Proton", "Electron", "Neutron", "Nucleus"],
+    "options_ta": ["ப்ரோட்டான்", "எலக்ட்ரான்", "நியூட்ரான்", "நியூக்ளியஸ்"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which organelle is responsible for protein synthesis?",
+    "question_ta": "புரத உற்பத்திக்கு பொறுப்பான உட்கரு எது?",
+    "options_en": ["Mitochondria", "Ribosome", "Chloroplast", "Golgi body"],
+    "options_ta": ["மைட்டோகாண்ட்ரியா", "ரைபோசோம்", "குளோரோபிளாஸ்ட்", "கோல்ஜி உடல்"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which plant tissue transports water in plants?",
+    "question_ta": "தாவரங்களில் தண்ணீரை கடத்தும் திசு எது?",
+    "options_en": ["Phloem", "Xylem", "Parenchyma", "Collenchyma"],
+    "options_ta": ["புளோயம்", "ஜைலம்", "பாரென்கைமா", "கோலென்கைமா"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Why do passengers fall forward when a moving bus suddenly stops?",
+    "question_ta": "நடமாடும் பஸ் திடீரென நிற்கும்போது பயணிகள் ஏன் முன்னால் சாய்கிறார்கள்?",
+    "options_en": ["Due to inertia", "Due to friction", "Due to gravity", "Due to air resistance"],
+    "options_ta": ["செயல்நிலை காரணமாக", "உராய்வு காரணமாக", "இயற்பியல் ஈர்ப்பு காரணமாக", "காற்று எதிர்ப்பு காரணமாக"],
+    "answer": 0
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which force is responsible for the revolution of planets around the Sun?",
+    "question_ta": "சூரியனைச் சுற்றி கோள்கள் சுழலுவதற்குக் காரணமான விசை எது?",
+    "options_en": ["Magnetic force", "Gravitational force", "Centrifugal force", "Nuclear force"],
+    "options_ta": ["காந்த விசை", "இயற்பியல் ஈர்ப்பு விசை", "விலகும் விசை", "அணு விசை"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "What is the SI unit of power?",
+    "question_ta": "சக்தியின் எஸ்.ஐ அலகு எது?",
+    "options_en": ["Watt", "Joule", "Newton", "Volt"],
+    "options_ta": ["வாட்", "ஜூல்", "நியூட்டன்", "வோல்ட்"],
+    "answer": 0
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Why does sound travel faster in solids than in gases?",
+    "question_ta": "ஒலி வாயுக்களைவிட திடங்களில் வேகமாகச் செல்லக் காரணம் என்ன?",
+    "options_en": ["Because solids are lighter", "Because particles are closer in solids", "Because gases have more energy", "Because solids vibrate more"],
+    "options_ta": ["திடங்கள் எளிதானவை என்பதால்", "திடங்களில் துகள்கள் நெருக்கமாக இருப்பதால்", "வாயுக்களுக்கு அதிக ஆற்றல் இருப்பதால்", "திடங்கள் அதிகம் அதிர்வதால்"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which gas protects us from harmful UV rays?",
+    "question_ta": "தீங்கு விளைவிக்கும் அல்்ட்ரா வயலெட் கதிர்களிலிருந்து எதை காக்கும் வாயு?",
+    "options_en": ["Oxygen", "Ozone", "Carbon dioxide", "Nitrogen"],
+    "options_ta": ["ஆக்சிஜன்", "ஓசோன்", "கார்பன் டையாக்சைடு", "நைட்ரஜன்"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which disease is caused by deficiency of iodine?",
+    "question_ta": "அயோடின் பற்றாக்குறையால் ஏற்படும் நோய் எது?",
+    "options_en": ["Anaemia", "Rickets", "Goitre", "Scurvy"],
+    "options_ta": ["அரத்தசோகை", "ரிக்கெட்ஸ்", "காய்டர்", "ஸ்கர்வி"],
+    "answer": 2
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which nutrient mainly provides energy to our body?",
+    "question_ta": "எந்த ஊட்டச்சத்து நம் உடலுக்கு முதன்மையாக ஆற்றல் வழங்குகிறது?",
+    "options_en": ["Proteins", "Carbohydrates", "Vitamins", "Minerals"],
+    "options_ta": ["புரதங்கள்", "கார்போஹைட்ரேட்டுகள்", "வைட்டமின்கள்", "தாதுக்கள்"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Why are nitrogen-fixing bacteria important for soil?",
+    "question_ta": "நைட்ரஜன் நிலைநிறுத்தும் பாக்டீரியாக்கள் மண்ணுக்கு ஏன் முக்கியமானவை?",
+    "options_en": ["They decompose waste", "They provide oxygen", "They increase nitrogen content", "They reduce acidity"],
+    "options_ta": ["அவை கழிவுகளை சிதைக்கின்றன", "அவை ஆக்சிஜனை வழங்குகின்றன", "அவை நைட்ரஜன் அளவை அதிகரிக்கின்றன", "அவை அமிலத்தன்மையை குறைக்கின்றன"],
+    "answer": 2
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Why are light and sound considered forms of energy?",
+    "question_ta": "ஒளியும் ஒலியும் ஆற்றலின் வடிவங்களாகக் கருதப்படுவதற்குக் காரணம் என்ன?",
+    "options_en": ["Because they are visible", "Because they can do work", "Because they are fast", "Because they are vibrations"],
+    "options_ta": ["அவை காணக்கூடியவை என்பதால்", "அவை வேலை செய்யக்கூடியவை என்பதால்", "அவை வேகமானவை என்பதால்", "அவை அதிர்வுகள் என்பதால்"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Why do farmers add manure to the soil?",
+    "question_ta": "விவசாயிகள் ஏன் மண்ணில் உரத்தை சேர்க்கின்றனர்?",
+    "options_en": ["To kill pests", "To increase fertility", "To reduce water", "To dry the soil"],
+    "options_ta": ["பூச்சிகளை கொல்ல", "மண் வளத்தை அதிகரிக்க", "நீரை குறைக்க", "மண்ணை உலர்க்க"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which property of metals makes them good conductors of electricity?",
+    "question_ta": "உலோகங்களை நல்ல மின்கடத்திகள் ஆக்கும் பண்பு எது?",
+    "options_en": ["Free electrons", "High density", "Shiny surface", "Hardness"],
+    "options_ta": ["இலவச எலக்ட்ரான்கள்", "அதிக அடர்த்தி", "பளபளப்பான மேற்பரப்பு", "கடினத்தன்மை"],
+    "answer": 0
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Why does a stone thrown upwards fall back to Earth?",
+    "question_ta": "மேலே எறியப்பட்ட கல் ஏன் மீண்டும் பூமிக்குத் திரும்புகிறது?",
+    "options_en": ["Because of inertia", "Because of gravity", "Because of air", "Because of rotation of Earth"],
+    "options_ta": ["செயல்நிலை காரணமாக", "இயற்பியல் ஈர்ப்பு காரணமாக", "காற்று காரணமாக", "பூமி சுழற்சி காரணமாக"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Why do astronauts feel weightless in space?",
+    "question_ta": "விண்வெளியில் விண்வெளி வீரர்கள் எடை இல்லாமல் உணரக் காரணம் என்ன?",
+    "options_en": ["No air", "No gravity", "Microgravity condition", "Fast speed"],
+    "options_ta": ["காற்று இல்லாததால்", "ஈர்ப்பு விசை இல்லாததால்", "சிறிய ஈர்ப்பு நிலை காரணமாக", "அதிக வேகம் காரணமாக"],
+    "answer": 2
+  },
+
+
+  {
+    "level": "Intermediate",
+    "question_en": "Why does the sky appear blue?",
+    "question_ta": "வானம் ஏன் நீலமாகத் தெரிகிறது?",
+    "options_en": ["Due to scattering of light", "Due to reflection", "Due to absorption", "Due to refraction"],
+    "options_ta": ["ஒளி சிதறலால்", "பிரதிபலிப்பால்", "உறிஞ்சுதலால்", "விலகுதலால்"],
+    "answer": 0
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which type of chemical reaction is photosynthesis?",
+    "question_ta": "ஒளிச்சேர்க்கை எந்த வகை வேதியியல் வினை?",
+    "options_en": ["Exothermic", "Endothermic", "Neutralization", "Displacement"],
+    "options_ta": ["வெப்பவிடும்", "வெப்பஉள்வாங்கும்", "நடுநிலைப்படுத்தல்", "இடம்பெயர்வு"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which part of the plant takes in carbon dioxide during photosynthesis?",
+    "question_ta": "ஒளிச்சேர்க்கையின் போது தாவரத்தின் எந்த பகுதி கார்பன் டையாக்சைடு உறிஞ்சுகிறது?",
+    "options_en": ["Stomata", "Roots", "Xylem", "Chloroplast"],
+    "options_ta": ["உதிர்வழி", "வேர்", "ஜைலம்", "குளோரோபிளாஸ்ட்"],
+    "answer": 0
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Why does a current carrying conductor produce a magnetic field?",
+    "question_ta": "மினோட்டம் பாயும் கம்பி ஏன் காந்த புலத்தை உருவாக்குகிறது?",
+    "options_en": ["Due to electric force", "Due to moving charges", "Due to attraction", "Due to repulsion"],
+    "options_ta": ["மின்சார விசை காரணமாக", "நகரும் மின்சுமை காரணமாக", "ஈர்ப்பு காரணமாக", "விலக்கு காரணமாக"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Why does rusting of iron occur faster in coastal areas?",
+    "question_ta": "கரையோரப் பகுதிகளில் இரும்பு வேகமாகச் சுருங்குவதற்குக் காரணம் என்ன?",
+    "options_en": ["Presence of CO2", "High temperature", "High moisture and salt", "Lack of oxygen"],
+    "options_ta": ["கார்பன் டையாக்சைடு இருப்பதால்", "அதிக வெப்பநிலை", "அதிக ஈரப்பதம் மற்றும் உப்பு", "ஆக்சிஜன் இல்லாததால்"],
+    "answer": 2
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which part of the eye helps in focusing objects at different distances?",
+    "question_ta": "கண்களில் வெவ்வேறு தூரங்களில் உள்ள பொருட்களைத் தெளிவாகப் பார்க்க உதவும் பகுதி எது?",
+    "options_en": ["Cornea", "Lens", "Pupil", "Retina"],
+    "options_ta": ["கார்னியா", "லென்ஸ்", "ப்யூபில்", "ரெட்டினா"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Why are metals good conductors of electricity?",
+    "question_ta": "உலோகங்கள் ஏன் நல்ல மின்கடத்திகள்?",
+    "options_en": ["Free electrons", "High density", "Shiny surface", "Hardness"],
+    "options_ta": ["இலவச எலக்ட்ரான்கள்", "அதிக அடர்த்தி", "பளபளப்பான மேற்பரப்பு", "கடினத்தன்மை"],
+    "answer": 0
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Why does refraction occur when light enters from air to water?",
+    "question_ta": "ஒளி காற்றிலிருந்து நீருக்குள் செல்லும்போது ஏன் விலகுகிறது?",
+    "options_en": ["Change in medium density", "Change in speed of light", "Change in wavelength", "All of the above"],
+    "options_ta": ["மூலத்தின் அடர்த்தி மாறுவதால்", "ஒளியின் வேகம் மாறுவதால்", "அலைநீளம் மாறுவதால்", "மேலே உள்ள அனைத்தும்"],
+    "answer": 3
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which reaction is responsible for release of energy in cells?",
+    "question_ta": "செல்களில் ஆற்றலை வெளியிடக் காரணமான வினை எது?",
+    "options_en": ["Respiration", "Photosynthesis", "Fermentation", "Digestion"],
+    "options_ta": ["சுவாசம்", "ஒளிச்சேர்க்கை", "காய்ச்சல்", "செரிமானம்"],
+    "answer": 0
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Why does a rainbow appear after rain?",
+    "question_ta": "மழைக்குப் பிறகு ஏன் வானவில் தோன்றுகிறது?",
+    "options_en": ["Reflection of light", "Refraction and dispersion of light", "Scattering of light", "Absorption of light"],
+    "options_ta": ["ஒளியின் பிரதிபலிப்பு", "ஒளியின் விலக்கு மற்றும் சிதறல்", "ஒளி சிதறல்", "ஒளி உறிஞ்சுதல்"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Why are decomposers important in an ecosystem?",
+    "question_ta": "ஒரு உயிர்க்கோளத்தில் சிதைவூக்கிகள் ஏன் முக்கியமானவை?",
+    "options_en": ["They produce food", "They recycle nutrients", "They give oxygen", "They fix nitrogen"],
+    "options_ta": ["அவை உணவை உற்பத்தி செய்கின்றன", "அவை ஊட்டச்சத்துக்களை மறுசுழற்சி செய்கின்றன", "அவை ஆக்சிஜனை வழங்குகின்றன", "அவை நைட்ரஜனை நிலைநிறுத்துகின்றன"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Why does the resistance of a conductor increase with temperature?",
+    "question_ta": "வெப்பநிலை அதிகரிக்கும்போது ஓட்டியின் எதிர்ப்பு ஏன் அதிகரிக்கிறது?",
+    "options_en": ["Electrons move faster", "More collisions of electrons", "Less current", "Change in length"],
+    "options_ta": ["எலக்ட்ரான்கள் வேகமாக நகர்கின்றன", "எலக்ட்ரான்களின் அதிக மோதல்கள்", "குறைந்த மினோட்டம்", "நீளம் மாறுகிறது"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which chemical is used in black and white photography?",
+    "question_ta": "கருப்பு வெள்ளை புகைப்படத்தில் எந்த வேதிப்பொருள் பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Silver nitrate", "Sodium chloride", "Magnesium sulphate", "Copper sulphate"],
+    "options_ta": ["வெள்ளி நைட்ரேட்", "சோடியம் குளோரைடு", "மக்னீசியம் சல்பேட்", "செம்பு சல்பேட்"],
+    "answer": 0
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Why is ozone layer important for life on Earth?",
+    "question_ta": "ஓசோன் அடுக்கு பூமியில் உயிர்களுக்கு ஏன் முக்கியமானது?",
+    "options_en": ["It absorbs UV rays", "It reflects sunlight", "It gives oxygen", "It reduces temperature"],
+    "options_ta": ["அது அல்்ட்ரா வயலெட் கதிர்களை உறிஞ்சுகிறது", "அது சூரிய ஒளியை பிரதிபலிக்கிறது", "அது ஆக்சிஜன் வழங்குகிறது", "அது வெப்பநிலையை குறைக்கிறது"],
+    "answer": 0
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Why do plants look green?",
+    "question_ta": "தாவரங்கள் ஏன் பச்சையாகத் தெரிகின்றன?",
+    "options_en": ["They absorb green light", "They reflect green light", "They absorb blue light", "They reflect red light"],
+    "options_ta": ["அவை பச்சை ஒளியை உறிஞ்சுகின்றன", "அவை பச்சை ஒளியை பிரதிபலிக்கின்றன", "அவை நீல ஒளியை உறிஞ்சுகின்றன", "அவை சிவப்பு ஒளியை பிரதிபலிக்கின்றன"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Why is parallel connection preferred in household wiring?",
+    "question_ta": "வீட்டு மின்சார அமைப்பில் ஏன் இணை இணைப்பு பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Saves energy", "Each appliance gets full voltage", "Less wires needed", "Increases resistance"],
+    "options_ta": ["ஆற்றல் சேமிக்கிறது", "ஒவ்வொரு சாதனத்துக்கும் முழு மின்னழுத்தம் கிடைக்கிறது", "குறைந்த கம்பிகள் தேவை", "எதிர்ப்பு அதிகரிக்கிறது"],
+    "answer": 1
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Which part of the human brain controls involuntary actions like heartbeat?",
+    "question_ta": "இதயத் துடிப்பு போன்ற விருப்பமற்ற செயல்களை மனித மூளையின் எந்த பகுதி கட்டுப்படுத்துகிறது?",
+    "options_en": ["Cerebrum", "Cerebellum", "Medulla oblongata", "Hypothalamus"],
+    "options_ta": ["முன்மூளை", "சிறுமூளை", "மெடுல்லா ஒப்லாங்காட்டா", "ஹைப்போத்தாலாமஸ்"],
+    "answer": 2
+  },
+  {
+    "level": "Intermediate",
+    "question_en": "Why is carbon called the basis of life?",
+    "question_ta": "கார்பன் ஏன் வாழ்க்கையின் அடிப்படையாக அழைக்கப்படுகிறது?",
+    "options_en": ["It forms only one bond", "It forms many stable compounds", "It is found in air", "It is present in water"],
+    "options_ta": ["அது ஒரு பிணைப்பு மட்டுமே உருவாக்குகிறது", "அது பல நிலையான சேர்மங்களை உருவாக்குகிறது", "அது காற்றில் உள்ளது", "அது தண்ணீரில் உள்ளது"],
+    "answer": 1
+  },
+
+  {
+    "level": "Advanced",
+    "question_en": "Which process converts liquid water into water vapor?",
+    "question_ta": "திரவ நீரை நீராவியாக மாற்றும் செயல் எது?",
+    "options_en": ["Condensation", "Evaporation", "Precipitation", "Sublimation"],
+    "options_ta": ["தொகைநிலை", "ஆவியாக்கம்", "மழைவீழ்ச்சி", "உயர்பாதிப்பு"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which part of the cell contains genetic material?",
+    "question_ta": "மரபணு தகவலைக் கொண்டிருக்கும் செல் பகுதி எது?",
+    "options_en": ["Cytoplasm", "Nucleus", "Cell membrane", "Mitochondria"],
+    "options_ta": ["உயிரணு திரவம்", "மையகம்", "செல் படலம்", "மைட்டோகாண்ட்ரியா"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "What is the powerhouse of the cell?",
+    "question_ta": "செல்லின் மின்நிலையம் என்று அழைக்கப்படுவது எது?",
+    "options_en": ["Nucleus", "Mitochondria", "Ribosome", "Cytoplasm"],
+    "options_ta": ["மையகம்", "மைட்டோகாண்ட்ரியா", "ரைபோசோம்", "உயிரணு திரவம்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "What type of lens is used in a magnifying glass?",
+    "question_ta": "பெரிதாக்கிக் காட்டும் கண்ணாடியில் எந்த வகை லென்ஸ் பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Concave lens", "Convex lens", "Plane lens", "Cylindrical lens"],
+    "options_ta": ["உள்ளிழுக்கும் லென்ஸ்", "வெளியிழுக்கும் லென்ஸ்", "சம லென்ஸ்", "உருளை லென்ஸ்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "What is the speed of light in vacuum?",
+    "question_ta": "வெற்றிடத்தில் ஒளியின் வேகம் எவ்வளவு?",
+    "options_en": ["3 × 10^8 m/s", "3 × 10^6 m/s", "1.5 × 10^8 m/s", "1 × 10^6 m/s"],
+    "options_ta": ["3 × 10^8 மீ/விநா", "3 × 10^6 மீ/விநா", "1.5 × 10^8 மீ/விநா", "1 × 10^6 மீ/விநா"],
+    "answer": 0
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which planet has the strongest gravity?",
+    "question_ta": "அதிக ஈர்ப்புவிசை கொண்டிருக்கும் கோள் எது?",
+    "options_en": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "options_ta": ["பூமி", "செவ்வாய்", "குரு", "சனி"],
+    "answer": 2
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which part of the human eye controls the amount of light entering?",
+    "question_ta": "மனிதக் கண்களில் ஒளியின் அளவை கட்டுப்படுத்தும் பகுதி எது?",
+    "options_en": ["Cornea", "Iris", "Retina", "Lens"],
+    "options_ta": ["கார்னியா", "இரிஸ்", "ரெட்டினா", "லென்ஸ்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "What is the chemical symbol of Iron?",
+    "question_ta": "இரும்பின் இரசாயன குறியீடு எது?",
+    "options_en": ["Ir", "Fe", "In", "I"],
+    "options_ta": ["Ir", "Fe", "In", "I"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which gas is essential for burning?",
+    "question_ta": "எரிப்பதற்கு அவசியமான வாயு எது?",
+    "options_en": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "options_ta": ["கார்பன் டைஆக்சைடு", "ஆக்சிஜன்", "நைட்ரஜன்", "ஹைட்ரஜன்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "What type of energy is stored in a stretched spring?",
+    "question_ta": "நீட்டிக்கப்பட்ட நீர்முனையில் சேமிக்கப்படும் ஆற்றல் எது?",
+    "options_en": ["Kinetic energy", "Potential energy", "Thermal energy", "Nuclear energy"],
+    "options_ta": ["இயக்க ஆற்றல்", "சாத்திய ஆற்றல்", "வெப்ப ஆற்றல்", "அணு ஆற்றல்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which vitamin deficiency causes night blindness?",
+    "question_ta": "எந்த வைட்டமின் குறைபாடு இரவு குருட்டுத்தனத்தை ஏற்படுத்தும்?",
+    "options_en": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "options_ta": ["வைட்டமின் A", "வைட்டமின் B", "வைட்டமின் C", "வைட்டமின் D"],
+    "answer": 0
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which part of the plant carries water from roots to leaves?",
+    "question_ta": "வேர் முதல் இலைகள் வரை தண்ணீரை கொண்டு செல்லும் தாவரத்தின் பகுதி எது?",
+    "options_en": ["Phloem", "Xylem", "Stem", "Root hairs"],
+    "options_ta": ["புளோயம்", "சைலம்", "தண்டு", "வேர் முட்கள்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "What is the basic unit of life?",
+    "question_ta": "உயிரின் அடிப்படை அலகு எது?",
+    "options_en": ["Atom", "Molecule", "Cell", "Tissue"],
+    "options_ta": ["அணு", "அணுக்கூறு", "செல்", "திசு"],
+    "answer": 2
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which blood group is called the universal donor?",
+    "question_ta": "உலகளாவிய தானம் வழங்குநர் என்று அழைக்கப்படும் இரத்தக் குழு எது?",
+    "options_en": ["A", "B", "O", "AB"],
+    "options_ta": ["A", "B", "O", "AB"],
+    "answer": 2
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which gas is used in photosynthesis to prepare food?",
+    "question_ta": "ஒளிச்சேர்க்கையில் உணவை தயாரிக்க பயன்படுத்தப்படும் வாயு எது?",
+    "options_en": ["Oxygen", "Carbon dioxide", "Hydrogen", "Nitrogen"],
+    "options_ta": ["ஆக்சிஜன்", "கார்பன் டைஆக்சைடு", "ஹைட்ரஜன்", "நைட்ரஜன்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which acid is found in the stomach that helps in digestion?",
+    "question_ta": "செரிமானத்திற்கு உதவும் வயிற்றில் காணப்படும் அமிலம் எது?",
+    "options_en": ["Nitric acid", "Sulphuric acid", "Hydrochloric acid", "Acetic acid"],
+    "options_ta": ["நைட்ரிக் அமிலம்", "சல்பியூரிக் அமிலம்", "ஹைட்ரோகுளோரிக் அமிலம்", "அசெட்டிக் அமிலம்"],
+    "answer": 2
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which part of the plant produces male gametes?",
+    "question_ta": "ஆண் இனப்பெருக்க அணுக்களை உற்பத்தி செய்கின்ற தாவரத்தின் பகுதி எது?",
+    "options_en": ["Stigma", "Ovary", "Anther", "Sepal"],
+    "options_ta": ["ஸ்டிக்மா", "கருப்பை", "ஆந்தர்", "சீபல்"],
+    "answer": 2
+  },
+  {
+    "level": "Advanced",
+    "question_en": "What is the unit of electric current?",
+    "question_ta": "மின்தரையின் அலகு எது?",
+    "options_en": ["Volt", "Ohm", "Watt", "Ampere"],
+    "options_ta": ["வோல்ட்", "ஓம்", "வாட்", "அம்பியர்"],
+    "answer": 3
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which mirror is used in vehicle headlights?",
+    "question_ta": "வாகன முன்னொளியில் எந்த வகை கண்ணாடி பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Concave mirror", "Convex mirror", "Plane mirror", "Spherical mirror"],
+    "options_ta": ["உள்ளிழுக்கும் கண்ணாடி", "வெளியிழுக்கும் கண்ணாடி", "சம கண்ணாடி", "கோள கண்ணாடி"],
+    "answer": 0
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which planet has a day longer than its year?",
+    "question_ta": "ஒரு வருடத்தை விட ஒரு நாள் நீளமாக இருக்கும் கோள் எது?",
+    "options_en": ["Venus", "Mars", "Mercury", "Earth"],
+    "options_ta": ["சுக்கிரன்", "செவ்வாய்", "புதன்", "பூமி"],
+    "answer": 0
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which gas is known as laughing gas?",
+    "question_ta": "நகைச்சுவை வாயு என்று அழைக்கப்படுவது எது?",
+    "options_en": ["Carbon dioxide", "Nitrous oxide", "Oxygen", "Methane"],
+    "options_ta": ["கார்பன் டைஆக்சைடு", "நைட்ரஸ் ஆக்சைடு", "ஆக்சிஜன்", "மீத்தேன்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which scientist discovered gravity?",
+    "question_ta": "ஈர்ப்பு விசையை கண்டறிந்த விஞ்ஞானி யார்?",
+    "options_en": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Kepler"],
+    "options_ta": ["ஆல்பர்ட் ஐன்ஸ்டீன்", "ஐசக் நியூட்டன்", "கலிலியோ", "கேப்லர்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "What type of change is rusting of iron?",
+    "question_ta": "இரும்பு ஜங்கானது எந்த வகை மாற்றம்?",
+    "options_en": ["Physical change", "Chemical change", "Reversible change", "Temporary change"],
+    "options_ta": ["இயற்பியல் மாற்றம்", "இரசாயன மாற்றம்", "மீளக்கூடிய மாற்றம்", "தற்காலிக மாற்றம்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which metal is liquid at room temperature?",
+    "question_ta": "அறை வெப்பநிலையில் திரவமாக இருக்கும் உலோகம் எது?",
+    "options_en": ["Mercury", "Gold", "Sodium", "Aluminium"],
+    "options_ta": ["புதன்", "தங்கம்", "சோடியம்", "அலுமினியம்"],
+    "answer": 0
+  },
+  {
+    "level": "Advanced",
+    "question_en": "What is the main component of natural gas?",
+    "question_ta": "இயற்கை எரிவாயுவின் முக்கிய கூறு எது?",
+    "options_en": ["Carbon monoxide", "Methane", "Ethane", "Butane"],
+    "options_ta": ["கார்பன் மோனாக்சைடு", "மீத்தேன்", "எத்தேன்", "பியூத்தேன்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which part of the ear helps in maintaining balance?",
+    "question_ta": "இருப்பை நிலைநிறுத்தக் காதின் எந்த பகுதி உதவுகிறது?",
+    "options_en": ["Ear drum", "Cochlea", "Semi-circular canals", "Auditory nerve"],
+    "options_ta": ["காது பட்டை", "கோக்லியா", "அரைவட்ட கால்வாய்", "கேட்புச் ச nerves"],
+    "answer": 2
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which energy transformation takes place in a solar cell?",
+    "question_ta": "சோலார் செல்களில் எந்த ஆற்றல் மாற்றம் நடைபெறுகிறது?",
+    "options_en": ["Electrical to heat", "Light to electrical", "Heat to electrical", "Mechanical to electrical"],
+    "options_ta": ["மின்சாரம் → வெப்பம்", "ஒளி → மின்சாரம்", "வெப்பம் → மின்சாரம்", "இயந்திரம் → மின்சாரம்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which is the largest gland in the human body?",
+    "question_ta": "மனித உடலில் மிகப்பெரிய சுரப்பி எது?",
+    "options_en": ["Pancreas", "Liver", "Kidney", "Thyroid"],
+    "options_ta": ["அகப்பை", "கல்லீரல்", "சிறுநீரகம்", "தைராய்டு"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which force opposes the motion of objects?",
+    "question_ta": "பொருட்களின் இயக்கத்திற்கு எதிராகச் செயல்படும் விசை எது?",
+    "options_en": ["Gravitational force", "Frictional force", "Magnetic force", "Electrostatic force"],
+    "options_ta": ["ஈர்ப்பு விசை", "இரப்பு விசை", "காந்த விசை", "மின்மய விசை"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "What is the SI unit of pressure?",
+    "question_ta": "அழுத்தத்தின் எஸ்.ஐ அலகு எது?",
+    "options_en": ["Pascal", "Newton", "Joule", "Watt"],
+    "options_ta": ["பாஸ்கல்", "நியூட்டன்", "ஜூல்", "வாட்"],
+    "answer": 0
+  },
+  
+  {
+    "level": "Advanced",
+    "question_en": "Which law explains why we need to wear seatbelts in moving vehicles?",
+    "question_ta": "நடமாடும் வாகனங்களில் சீட் பெல்ட் அணிய வேண்டிய காரணத்தை விளக்கும் விதி எது?",
+    "options_en": ["Law of Gravitation", "Newton's First Law", "Newton's Second Law", "Law of Energy"],
+    "options_ta": ["ஈர்ப்புவிதி", "நியூட்டனின் முதல் விதி", "நியூட்டனின் இரண்டாவது விதி", "ஆற்றல் விதி"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which part of the human brain controls balance and coordination?",
+    "question_ta": "மனித மூளையின் எந்த பகுதி சமநிலையும் ஒருங்கிணைப்பையும் கட்டுப்படுத்துகிறது?",
+    "options_en": ["Cerebrum", "Cerebellum", "Medulla", "Thalamus"],
+    "options_ta": ["செரிப்ரம்", "செரிபெல்லம்", "மெடுலா", "தாலாமஸ்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "What is the speed of light in vacuum?",
+    "question_ta": "வெற்றிடத்தில் ஒளியின் வேகம் எவ்வளவு?",
+    "options_en": ["3 × 10^5 km/s", "3 × 10^8 m/s", "3 × 10^6 m/s", "3 × 10^5 m/s"],
+    "options_ta": ["3 × 10^5 கி.மீ/விநா", "3 × 10^8 மீ/விநா", "3 × 10^6 மீ/விநா", "3 × 10^5 மீ/விநா"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which gas protects us from harmful UV rays in the atmosphere?",
+    "question_ta": "வளிமண்டலத்தில் தீங்கு விளைவிக்கும் UV கதிர்களிலிருந்து எங்களைப் பாதுகாக்கும் வாயு எது?",
+    "options_en": ["Ozone", "Oxygen", "Carbon dioxide", "Nitrogen"],
+    "options_ta": ["ஓசோன்", "ஆக்சிஜன்", "கார்பன் டைஆக்சைடு", "நைட்ரஜன்"],
+    "answer": 0
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which planet has the largest number of moons?",
+    "question_ta": "மிக அதிகமான நிலவுகளை கொண்டிருக்கும் கோள் எது?",
+    "options_en": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "options_ta": ["பூமி", "செவ்வாய்", "வியாழன்", "சனி"],
+    "answer": 3
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which scientist is known as the father of modern chemistry?",
+    "question_ta": "நவீன இரசாயனத்தின் தந்தை என்று அழைக்கப்படும் விஞ்ஞானி யார்?",
+    "options_en": ["Newton", "Lavoisier", "Mendeleev", "Dalton"],
+    "options_ta": ["நியூட்டன்", "லவாய்ஸியர்", "மெண்டலீவ்", "டால்டன்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "What is the approximate age of the Earth?",
+    "question_ta": "பூமியின் சராசரி வயது எவ்வளவு?",
+    "options_en": ["2.5 billion years", "4.5 billion years", "6.5 billion years", "10 billion years"],
+    "options_ta": ["2.5 பில்லியன் வருடங்கள்", "4.5 பில்லியன் வருடங்கள்", "6.5 பில்லியன் வருடங்கள்", "10 பில்லியன் வருடங்கள்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which part of the plant carries water from roots to leaves?",
+    "question_ta": "தாவரத்தின் எந்த பகுதி வேர் முதல் இலை வரை தண்ணீரை கொண்டு செல்கிறது?",
+    "options_en": ["Phloem", "Xylem", "Chloroplast", "Cambium"],
+    "options_ta": ["புளோயம்", "ஜைலம்", "குளோரோபிளாஸ்ட்", "கேம்பியம்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "What is the pH value of pure water?",
+    "question_ta": "தூய நீரின் pH மதிப்பு எவ்வளவு?",
+    "options_en": ["0", "7", "14", "10"],
+    "options_ta": ["0", "7", "14", "10"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which organelle is responsible for photosynthesis?",
+    "question_ta": "ஒளிச்சேர்க்கைக்கு பொறுப்பான செல்பகுதி எது?",
+    "options_en": ["Mitochondria", "Nucleus", "Chloroplast", "Ribosome"],
+    "options_ta": ["மைட்டோகாண்ட்ரியா", "நியூக்ளியஸ்", "குளோரோபிளாஸ்ட்", "ரைபோசோம்"],
+    "answer": 2
+  },
+  {
+    "level": "Advanced",
+    "question_en": "What type of lens is used to correct short-sightedness?",
+    "question_ta": "குறுகிய பார்வையை சரி செய்ய எந்த வகை லென்ஸ் பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Convex lens", "Concave lens", "Bifocal lens", "Cylindrical lens"],
+    "options_ta": ["வளைந்த லென்ஸ்", "உள்நோக்கிய லென்ஸ்", "இரட்டை லென்ஸ்", "உருளை லென்ஸ்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which blood group is known as the universal recipient?",
+    "question_ta": "உலகளாவிய பெறுபவர் என்று அழைக்கப்படும் இரத்த வகை எது?",
+    "options_en": ["A", "B", "O positive", "AB positive"],
+    "options_ta": ["A", "B", "O பாசிட்டிவ்", "AB பாசிட்டிவ்"],
+    "answer": 3
+  },
+  {
+    "level": "Advanced",
+    "question_en": "What is the unit of electric current?",
+    "question_ta": "மின்சார ஓட்டத்தின் அலகு எது?",
+    "options_en": ["Volt", "Ohm", "Ampere", "Watt"],
+    "options_ta": ["வோல்ட்", "ஓம்", "அம்பியர்", "வாட்"],
+    "answer": 2
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which scientist proposed the heliocentric model of the solar system?",
+    "question_ta": "சூரியக் குடும்பத்தின் ஹீலியோசென்ட்ரிக் மாதிரியை முன்வைத்த விஞ்ஞானி யார்?",
+    "options_en": ["Galileo", "Copernicus", "Kepler", "Newton"],
+    "options_ta": ["கலிலியோ", "கோப்பெர்னிகஸ்", "கேப்ளர்", "நியூட்டன்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which part of the digestive system absorbs nutrients?",
+    "question_ta": "செரிமான அமைப்பின் எந்த பகுதி சத்துக்களை உறிஞ்சுகிறது?",
+    "options_en": ["Stomach", "Large intestine", "Small intestine", "Liver"],
+    "options_ta": ["வயிறு", "பெருங்குடல்", "சிறுகுடல்", "கல்லீரல்"],
+    "answer": 2
+  },
+  {
+    "level": "Advanced",
+    "question_en": "What is the main component of natural gas?",
+    "question_ta": "இயற்கை எரிவாயுவின் முக்கியக் கூறு எது?",
+    "options_en": ["Ethane", "Methane", "Propane", "Butane"],
+    "options_ta": ["எத்தேன்", "மீத்தேன்", "புரோப்பேன்", "பியூத்தேன்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which part of the cell is called the control center?",
+    "question_ta": "செல்லின் கட்டுப்பாட்டு மையம் என்று அழைக்கப்படுவது எது?",
+    "options_en": ["Mitochondria", "Nucleus", "Ribosome", "Cytoplasm"],
+    "options_ta": ["மைட்டோகாண்ட்ரியா", "நியூக்ளியஸ்", "ரைபோசோம்", "சைட்டோபிளாசம்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which force keeps planets in orbit around the Sun?",
+    "question_ta": "சூரியனைச் சுற்றி கோள்கள் சுற்றச் செய்யும் விசை எது?",
+    "options_en": ["Magnetic force", "Gravitational force", "Electrostatic force", "Centrifugal force"],
+    "options_ta": ["காந்த விசை", "ஈர்ப்பு விசை", "மின்னழுத்த விசை", "வெளிநோக்கிய விசை"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which scientist discovered the electron?",
+    "question_ta": "எலக்ட்ரானை கண்டுபிடித்த விஞ்ஞானி யார்?",
+    "options_en": ["Rutherford", "Thomson", "Bohr", "Dalton"],
+    "options_ta": ["ரதர்ஃபோர்ட்", "தாம்சன்", "போர்", "டால்டன்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which layer of the atmosphere contains the ozone layer?",
+    "question_ta": "ஓசோன் அடுக்கு எந்த வளிமண்டல அடுக்கில் உள்ளது?",
+    "options_en": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+    "options_ta": ["ட்ரோபோஸ்பியர்", "ஸ்ட்ராடோஸ்பியர்", "மேசோஸ்பியர்", "தெர்மோஸ்பியர்"],
+    "answer": 1
+  },
+  
+  {
+    "level": "Advanced",
+    "question_en": "Which law states that energy cannot be created or destroyed, only transformed?",
+    "question_ta": "ஆற்றல் உருவாக்கப்படவோ அழிக்கப்படவோ முடியாது, மாற்றப்பட மட்டுமே முடியும் என்று கூறும் விதி எது?",
+    "options_en": ["Law of Inertia", "Law of Conservation of Energy", "Newton’s Third Law", "Archimedes’ Principle"],
+    "options_ta": ["இனர்ஷியா விதி", "ஆற்றல் நிலைத்தன்மை விதி", "நியூட்டனின் மூன்றாவது விதி", "ஆர்க்கிமிடீஸின் கொள்கை"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which scientist proposed the three laws of planetary motion?",
+    "question_ta": "கோள்களின் மூன்று இயக்க விதிகளை முன்வைத்த விஞ்ஞானி யார்?",
+    "options_en": ["Galileo", "Kepler", "Newton", "Copernicus"],
+    "options_ta": ["கலிலியோ", "கெப்லர்", "நியூட்டன்", "கோப்பர்னிகஸ்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which part of the cell contains hereditary material DNA?",
+    "question_ta": "செல்லில் மரபணு பொருள் டி.என்.ஏ. உள்ள பகுதி எது?",
+    "options_en": ["Cytoplasm", "Nucleus", "Mitochondria", "Golgi body"],
+    "options_ta": ["சைட்டோபிளாஸம்", "மையகம்", "மைட்டோகாண்ட்ரியா", "கோல்ஜி உடல்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "What type of lens is used to correct short-sightedness (myopia)?",
+    "question_ta": "குறுகிய பார்வை (மையோபியா) திருத்த எந்த வகை லென்ஸ் பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Convex lens", "Concave lens", "Plano lens", "Bifocal lens"],
+    "options_ta": ["உருண்டை லென்ஸ்", "அகல்முக லென்ஸ்", "சம லென்ஸ்", "இரட்டை லென்ஸ்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "What is the SI unit of force?",
+    "question_ta": "வலுவின் எஸ்.ஐ அலகு எது?",
+    "options_en": ["Joule", "Newton", "Pascal", "Watt"],
+    "options_ta": ["ஜூல்", "நியூட்டன்", "பாஸ்கல்", "வாட்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which element has the atomic number 6?",
+    "question_ta": "அணு எண் 6 உடைய மூலப்பொருள் எது?",
+    "options_en": ["Oxygen", "Carbon", "Nitrogen", "Boron"],
+    "options_ta": ["ஆக்சிஜன்", "கார்பன்", "நைட்ரஜன்", "போரோன்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which device is used to measure atmospheric pressure?",
+    "question_ta": "வளிமண்டல அழுத்தத்தை அளவிட எந்த கருவி பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Thermometer", "Hygrometer", "Barometer", "Anemometer"],
+    "options_ta": ["வெப்பமானி", "ஈரப்பமானி", "வளிமண்டல அழுத்தமானி", "காற்றழுத்தமானி"],
+    "answer": 2
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which scientist discovered that lightning is a form of electricity?",
+    "question_ta": "மின்னல் என்பது மின்சாரத்தின் ஒரு வடிவம் என்று கண்டுபிடித்த விஞ்ஞானி யார்?",
+    "options_en": ["Benjamin Franklin", "Faraday", "Edison", "Ohm"],
+    "options_ta": ["பெஞ்சமின் பிராங்க்ளின்", "ஃபாரடே", "எடிசன்", "ஓம்"],
+    "answer": 0
+  },
+  {
+    "level": "Advanced",
+    "question_en": "What is the main gas responsible for global warming?",
+    "question_ta": "உலக வெப்பமயமாதலுக்குப் பொறுப்பான முக்கிய வாயு எது?",
+    "options_en": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+    "options_ta": ["ஆக்சிஜன்", "கார்பன் டைஆக்சைடு", "நைட்ரஜன்", "ஹைட்ரஜன்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which type of blood circulation carries blood between the heart and lungs?",
+    "question_ta": "இதயம் மற்றும் நுரையீரலுக்கிடையே இரத்தத்தை எடுத்துச் செல்லும் இரத்த ஓட்டம் எது?",
+    "options_en": ["Systemic circulation", "Pulmonary circulation", "Coronary circulation", "Double circulation"],
+    "options_ta": ["முழு உடல் ஓட்டம்", "நுரையீரல் ஓட்டம்", "இதய ஓட்டம்", "இரட்டை ஓட்டம்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which law explains the relationship between current, voltage, and resistance?",
+    "question_ta": "மின்னோட்டம், மின்னழுத்தம் மற்றும் எதிர்ப்பு இடையேயான உறவை விளக்கும் விதி எது?",
+    "options_en": ["Faraday’s Law", "Coulomb’s Law", "Ohm’s Law", "Newton’s Law"],
+    "options_ta": ["ஃபாரடே விதி", "கூலம்ப் விதி", "ஓமின் விதி", "நியூட்டனின் விதி"],
+    "answer": 2
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which type of star is the Sun classified as?",
+    "question_ta": "சூரியன் எந்த வகை நட்சத்திரமாக வகைப்படுத்தப்படுகிறது?",
+    "options_en": ["Neutron star", "Red giant", "Yellow dwarf", "White dwarf"],
+    "options_ta": ["நியூட்ரான் நட்சத்திரம்", "சிவப்பு பெரும் நட்சத்திரம்", "மஞ்சள் குட்டி நட்சத்திரம்", "வெள்ளை குட்டி நட்சத்திரம்"],
+    "answer": 2
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which instrument is used to split light into its spectrum?",
+    "question_ta": "ஒளியை அதன் வண்ண அலைவரிசையாகப் பிரிக்க எந்த கருவி பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Microscope", "Telescope", "Prism", "Periscope"],
+    "options_ta": ["நுண்ணோக்கி", "தூரநோக்கி", "பிரிசம்", "பெரிஸ்கோப்"],
+    "answer": 2
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which process in plants releases oxygen into the atmosphere?",
+    "question_ta": "தாவரங்களில் எந்த செயல்முறை ஆக்சிஜனை வளிமண்டலத்திற்கு வெளியிடுகிறது?",
+    "options_en": ["Respiration", "Photosynthesis", "Transpiration", "Fermentation"],
+    "options_ta": ["சுவாசம்", "ஒளிச்சேர்க்கை", "வியர்வை", "பாசனம்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which scientist discovered penicillin?",
+    "question_ta": "பெனிசில்லின் கண்டுபிடித்த விஞ்ஞானி யார்?",
+    "options_en": ["Alexander Fleming", "Louis Pasteur", "Edward Jenner", "Robert Koch"],
+    "options_ta": ["அலெக்சாண்டர் ஃப்ளெமிங்", "லூயிஸ் பாஸ்டியர்", "எட்வர்ட் ஜென்னர்", "ராபர்ட் கோச்"],
+    "answer": 0
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which type of mirror is used in car headlights?",
+    "question_ta": "கார் ஹெட்லைட்களில் எந்த வகை கண்ணாடி பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Plane mirror", "Concave mirror", "Convex mirror", "Parabolic mirror"],
+    "options_ta": ["சம திண்ம கண்ணாடி", "அகல்முக கண்ணாடி", "உருண்டை கண்ணாடி", "பரபோலிக் கண்ணாடி"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which element is the main component of chlorophyll?",
+    "question_ta": "குளோரோபிளில் உள்ள முக்கிய மூலப்பொருள் எது?",
+    "options_en": ["Magnesium", "Calcium", "Iron", "Potassium"],
+    "options_ta": ["மக்னீசியம்", "கால்சியம்", "இரும்பு", "பொட்டாசியம்"],
+    "answer": 0
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which scientist is known as the father of genetics?",
+    "question_ta": "மரபியலின் தந்தை என்று அழைக்கப்படும் விஞ்ஞானி யார்?",
+    "options_en": ["Darwin", "Mendel", "Watson", "Crick"],
+    "options_ta": ["டார்வின்", "மெண்டல்", "வாட்சன்", "கிரிக்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which force keeps planets in orbit around the Sun?",
+    "question_ta": "சூரியனைச் சுற்றி கோள்கள் சுழல்வதற்கு காரணமான விசை எது?",
+    "options_en": ["Magnetic force", "Gravitational force", "Centrifugal force", "Nuclear force"],
+    "options_ta": ["காந்த விசை", "இயற்பியல் ஈர்ப்பு விசை", "மையவிலகும் விசை", "அணு விசை"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which law explains the inheritance of traits from parents to offspring?",
+    "question_ta": "பெற்றோரிலிருந்து சந்ததியினருக்கு பண்புகள் மரபாக செல்லும் விதியை விளக்கும் சட்டம் எது?",
+    "options_en": ["Darwin's Theory", "Mendel's Laws", "Newton's Law", "Boyle's Law"],
+    "options_ta": ["டார்வின் கோட்பாடு", "மென்டல் விதிகள்", "நியூட்டன் விதி", "பாய்ல் விதி"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "A car accelerates from rest at 3 m/s² for 4 seconds. What is its final velocity?",
+    "question_ta": "ஒரு கார் 3 மீ/வ² துரிதத்தில் 4 விநாடிகள் ஓய்விலிருந்து துவங்குகிறது. அதன் இறுதி வேகம் என்ன?",
+    "options_en": ["10 m/s", "12 m/s", "15 m/s", "20 m/s"],
+    "options_ta": ["10 மீ/வ", "12 மீ/வ", "15 மீ/வ", "20 மீ/வ"],
+    "answer": 2
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which separation technique is used in petroleum refineries?",
+    "question_ta": "பெட்ரோலிய தொழிற்சாலைகளில் எந்த பிரிப்பு முறை பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Filtration", "Fractional distillation", "Chromatography", "Sedimentation"],
+    "options_ta": ["வடிகட்டி", "பகுதி சுருக்கல்", "குரோமடோகிராபி", "அடைவு"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "If 36 g of water (H2O) is formed, how many moles of water are produced? (Molar mass of H2O = 18 g/mol)",
+    "question_ta": "36 கிராம் நீர் (H2O) உருவானால், எத்தனை மோல்கள் நீர் உற்பத்தியாகிறது? (H2O வின் மோலர் நிறை = 18 g/mol)",
+    "options_en": ["1 mole", "2 moles", "3 moles", "4 moles"],
+    "options_ta": ["1 மோல்", "2 மோல்கள்", "3 மோல்கள்", "4 மோல்கள்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which part of the human brain controls balance and coordination?",
+    "question_ta": "மனித மூளையின் எந்த பகுதி சமநிலையையும் ஒருங்கிணைப்பையும் கட்டுப்படுத்துகிறது?",
+    "options_en": ["Cerebrum", "Cerebellum", "Medulla", "Hypothalamus"],
+    "options_ta": ["முன்மூளை", "சிறுமூளை", "மூளைத்தண்டு", "ஹைப்போத்தாலாமஸ்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "An object of mass 10 kg is lifted to a height of 5 m. (g = 9.8 m/s²) What is the potential energy gained?",
+    "question_ta": "10 கிலோ பருமனுடைய பொருள் 5 மீ உயரத்திற்கு உயர்த்தப்படுகிறது. (g = 9.8 மீ/வ²) அது பெறும் நிலை ஆற்றல் என்ன?",
+    "options_en": ["250 J", "490 J", "500 J", "980 J"],
+    "options_ta": ["250 ஜூல்", "490 ஜூல்", "500 ஜூல்", "980 ஜூல்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which organelle is called the 'suicidal bag' of the cell?",
+    "question_ta": "செலின் 'தற்கொலைப்பை' என்று அழைக்கப்படும் உட்கரு எது?",
+    "options_en": ["Mitochondria", "Lysosome", "Ribosome", "Golgi body"],
+    "options_ta": ["மைட்டோகாண்ட்ரியா", "லைசோசோம்", "ரைபோசோம்", "கோல்ஜி உடல்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "A sound wave has a wavelength of 1.7 m and frequency of 200 Hz. What is the speed of sound?",
+    "question_ta": "ஒரு ஒலி அலையின் அலைநீளம் 1.7 மீ மற்றும் அதிர்வெண் 200 ஹெர்ட்ஸ். ஒலியின் வேகம் என்ன?",
+    "options_en": ["240 m/s", "300 m/s", "340 m/s", "400 m/s"],
+    "options_ta": ["240 மீ/வ", "300 மீ/வ", "340 மீ/வ", "400 மீ/வ"],
+    "answer": 2
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which plant hormone is responsible for cell elongation?",
+    "question_ta": "செல் நீளத்திற்கு பொறுப்பான தாவர ஹார்மோன் எது?",
+    "options_en": ["Cytokinin", "Auxin", "Gibberellin", "Ethylene"],
+    "options_ta": ["சைடோகைனின்", "ஆக்சின்", "கிபெரெலின்", "எதிலீன்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which layer of the atmosphere contains the ozone layer?",
+    "question_ta": "ஓசோன் அடுக்கு எந்த வளிமண்டல அடுக்கில் உள்ளது?",
+    "options_en": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+    "options_ta": ["காற்றுப்படலம்", "அடுக்குப்படலம்", "இடைப்படலம்", "வெப்பப்படலம்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which part of the cell is semi-permeable and controls entry and exit of substances?",
+    "question_ta": "செலின் எந்த பகுதி பாதி ஊடுருவக்கூடியது மற்றும் பொருட்களின் நுழைவு, வெளியேற்றத்தை கட்டுப்படுத்துகிறது?",
+    "options_en": ["Cell wall", "Cytoplasm", "Plasma membrane", "Nucleus"],
+    "options_ta": ["செல் சுவர்", "செல்ததிப்பு", "பிளாஸ்மா சவ்வு", "நியூக்ளியஸ்"],
+    "answer": 2
+  },
+  {
+    "level": "Advanced",
+    "question_en": "If an atom has 11 protons and 12 neutrons, what is its mass number?",
+    "question_ta": "ஒரு அணுவில் 11 ப்ரோட்டான்களும் 12 நியூட்ரான்களும் இருந்தால், அதன் பருமன் எண் என்ன?",
+    "options_en": ["11", "12", "22", "23"],
+    "options_ta": ["11", "12", "22", "23"],
+    "answer": 3
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which scientist proposed the planetary model of the atom?",
+    "question_ta": "அணுவின் கோள மாடலை முன்வைத்த விஞ்ஞானி யார்?",
+    "options_en": ["Dalton", "Rutherford", "Bohr", "Chadwick"],
+    "options_ta": ["டால்டன்", "ரதர்ஃபோர்டு", "போர்", "சாட்விக்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "What is the function of guard cells in plants?",
+    "question_ta": "தாவரங்களில் காவலர் செல்களின் பணி என்ன?",
+    "options_en": ["Transport food", "Open and close stomata", "Store starch", "Provide strength"],
+    "options_ta": ["உணவு கடத்தல்", "உதிர்வழியைத் திறந்து மூடுதல்", "மாவை சேமித்தல்", "வலிமை வழங்குதல்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "An object is moving with velocity 10 m/s. If it has mass 2 kg, what is its kinetic energy?",
+    "question_ta": "ஒரு பொருள் 10 மீ/வ வேகத்தில் செல்கிறது. அதன் பருமன் 2 கிலோ என்றால், அதன் இயக்க ஆற்றல் என்ன?",
+    "options_en": ["50 J", "75 J", "100 J", "150 J"],
+    "options_ta": ["50 ஜூல்", "75 ஜூல்", "100 ஜூல்", "150 ஜூல்"],
+    "answer": 2
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which organ in the human body purifies blood?",
+    "question_ta": "மனித உடலில் இரத்தத்தை சுத்திகரிக்கும் உறுப்பு எது?",
+    "options_en": ["Heart", "Liver", "Kidney", "Lungs"],
+    "options_ta": ["இதயம்", "கல்லீரல்", "சிறுநீரகம்", "நுரையீரல்"],
+    "answer": 2
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which energy transformation takes place in a microphone?",
+    "question_ta": "மைக்ரோஃபோனில் எந்த ஆற்றல் மாற்றம் நிகழ்கிறது?",
+    "options_en": ["Electrical to sound", "Sound to electrical", "Light to electrical", "Mechanical to light"],
+    "options_ta": ["மின்சாரம் முதல் ஒலி", "ஒலி முதல் மின்சாரம்", "ஒளி முதல் மின்சாரம்", "இயந்திரம் முதல் ஒளி"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which disease is spread by Anopheles mosquito?",
+    "question_ta": "அனோஃபிலிஸ் கொசுவால் பரவும் நோய் எது?",
+    "options_en": ["Dengue", "Malaria", "Cholera", "Typhoid"],
+    "options_ta": ["டெங்கு", "குடல்வெப்பம்", "காலரா", "டைபாய்டு"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Why is photosynthesis considered the most important biochemical process on Earth?",
+    "question_ta": "பசுமையாக்கம் பூமியில் மிகவும் முக்கியமான உயிர்வேதியியல் செயல்முறையாகக் கருதப்படுவதற்குக் காரணம் என்ன?",
+    "options_en": ["It produces food and oxygen", "It absorbs nitrogen", "It produces carbon dioxide", "It consumes oxygen"],
+    "options_ta": ["அது உணவும் ஆக்சிஜனையும் உற்பத்தி செய்கிறது", "அது நைட்ரஜனை உறிஞ்சுகிறது", "அது கார்பன் டையாக்சைடு உற்பத்தி செய்கிறது", "அது ஆக்சிஜனை பயன்படுத்துகிறது"],
+    "answer": 0
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which principle explains the working of the human eye similar to a camera?",
+    "question_ta": "மனிதக் கண் கேமராவைப் போல செயல்படுவதைக் குறிப்பிடும் கோட்பாடு எது?",
+    "options_en": ["Refraction of light", "Total internal reflection", "Scattering of light", "Diffraction of light"],
+    "options_ta": ["ஒளியின் விலக்கு", "முழு உள்விளக்கம்", "ஒளி சிதறல்", "ஒளியின் விலகம்"],
+    "answer": 0
+  },
+  {
+    "level": "Advanced",
+    "question_en": "A 2 A current flows through a resistor of 6 Ω. What is the heat produced in 5 seconds? (H = I²Rt)",
+    "question_ta": "6 ஓம் எதிர்ப்பில் 2 A மினோட்டம் பாய்கிறது. 5 விநாடிகளில் உண்டாகும் வெப்பம் என்ன? (H = I²Rt)",
+    "options_en": ["60 J", "100 J", "120 J", "150 J"],
+    "options_ta": ["60 ஜூல்", "100 ஜூல்", "120 ஜூல்", "150 ஜூல்"],
+    "answer": 2
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Why does a concave lens always form a virtual image?",
+    "question_ta": "ஒரு உள்ளிழுக்கும் லென்ஸ் எப்போதும் ஏன் கற்பனை உருவத்தையே உருவாக்குகிறது?",
+    "options_en": ["Because it diverges light rays", "Because it converges light rays", "Because it absorbs light", "Because it reflects light"],
+    "options_ta": ["அது ஒளிக்கதிர்களை பங்குபடுத்துவதால்", "அது ஒளிக்கதிர்களை ஒன்றிணைப்பதால்", "அது ஒளியை உறிஞ்சுவதால்", "அது ஒளியை பிரதிபலிப்பதால்"],
+    "answer": 0
+  },
+  {
+    "level": "Advanced",
+    "question_en": "A solenoid of 100 turns carries a current of 2 A. If the length is 50 cm, what is the magnetic field inside? (μ₀ = 4π × 10⁻⁷ Tm/A)",
+    "question_ta": "100 சுற்றுகள் கொண்ட சோலினாய்டில் 2 A மினோட்டம் பாய்கிறது. நீளம் 50 செ.மீ என்றால் உள்ளே காந்த புலம் எவ்வளவு? (μ₀ = 4π × 10⁻⁷ Tm/A)",
+    "options_en": ["2.5 × 10⁻⁴ T", "5.0 × 10⁻⁴ T", "1.26 × 10⁻³ T", "2.52 × 10⁻³ T"],
+    "options_ta": ["2.5 × 10⁻⁴ டெஸ்லா", "5.0 × 10⁻⁴ டெஸ்லா", "1.26 × 10⁻³ டெஸ்லா", "2.52 × 10⁻³ டெஸ்லா"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which compound is used as an antacid to relieve indigestion?",
+    "question_ta": "அஜீரணத்தை குறைக்க எந்த சேர்மம் அந்தாசிட் ஆக பயன்படுத்தப்படுகிறது?",
+    "options_en": ["NaOH", "CaCO3", "Mg(OH)2", "HCl"],
+    "options_ta": ["NaOH", "CaCO3", "Mg(OH)2", "HCl"],
+    "answer": 2
+  },
+  {
+    "level": "Advanced",
+    "question_en": "A convex lens has a focal length of 20 cm. An object is placed 30 cm away. Find the image distance. (1/f = 1/v – 1/u)",
+    "question_ta": "ஒரு வெளிவிழுக்கும் லென்ஸின் குவியநிலை 20 செ.மீ. பொருள் 30 செ.மீ தூரத்தில் வைக்கப்பட்டால் உருவத் தூரம் என்ன? (1/f = 1/v – 1/u)",
+    "options_en": ["40 cm", "60 cm", "15 cm", "10 cm"],
+    "options_ta": ["40 செ.மீ", "60 செ.மீ", "15 செ.மீ", "10 செ.மீ"],
+    "answer": 0
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Why is the atomic number more important than atomic mass in modern classification?",
+    "question_ta": "நவீன வகைப்பாட்டில் ஏன் அணு எண், அணு நிறையைவிட முக்கியமானது?",
+    "options_en": ["Because it shows number of neutrons", "Because it shows number of protons", "Because it shows isotopes", "Because it shows mass number"],
+    "options_ta": ["அது நியூட்ரான்களின் எண்ணிக்கையை காட்டுவதால்", "அது ப்ரோட்டான்களின் எண்ணிக்கையை காட்டுவதால்", "அது ஐசோடோப்புகளை காட்டுவதால்", "அது பருமன் எண்ணை காட்டுவதால்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Why do we apply Fleming’s left hand rule?",
+    "question_ta": "ஃபிளெமிங் இடது கையின்கோட்பாடு எதற்காகப் பயன்படுத்தப்படுகிறது?",
+    "options_en": ["To find direction of induced current", "To find direction of force on conductor", "To find direction of magnetic field", "To find resistance"],
+    "options_ta": ["தூண்டப்பட்ட மினோட்டத்தின் திசை கண்டறிய", "கம்பியில் விசையின் திசை கண்டறிய", "காந்த புலத்தின் திசை கண்டறிய", "எதிர்ப்பைக் கண்டறிய"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "A chemical reaction produces 44 g of CO2. Calculate the number of moles. (Molar mass = 44 g/mol)",
+    "question_ta": "ஒரு வேதியியல் வினையில் 44 g CO2 உருவாகிறது. எத்தனை மோல்கள் உருவாகின்றன? (மோலர் நிறை = 44 g/mol)",
+    "options_en": ["0.5 mol", "1 mol", "2 mol", "4 mol"],
+    "options_ta": ["0.5 மோல்", "1 மோல்", "2 மோல்", "4 மோல்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which tissue transports water in plants?",
+    "question_ta": "தாவரங்களில் தண்ணீரைக் கடத்தும் திசு எது?",
+    "options_en": ["Phloem", "Xylem", "Cambium", "Epidermis"],
+    "options_ta": ["புளோயம்", "ஜைலம்", "கேம்பியம்", "மேற்படை"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Why does short-circuiting occur in electrical circuits?",
+    "question_ta": "மின்சுற்றுகளில் குறுக்குச்சுற்று ஏன் ஏற்படுகிறது?",
+    "options_en": ["Due to high resistance", "Due to low resistance path", "Due to open circuit", "Due to switch"],
+    "options_ta": ["அதிக எதிர்ப்பால்", "குறைந்த எதிர்ப்பு பாதையால்", "திறந்த சுற்று காரணமாக", "சுவிட்ச் காரணமாக"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "An object of mass 5 kg is lifted 4 m. Calculate potential energy. (g = 10 m/s²)",
+    "question_ta": "5 கிலோ பருமனுடைய பொருள் 4 மீ உயரத்திற்கு தூக்கப்படுகிறது. நிலை ஆற்றலைக் காண்க. (g = 10 m/s²)",
+    "options_en": ["20 J", "40 J", "100 J", "200 J"],
+    "options_ta": ["20 ஜூல்", "40 ஜூல்", "100 ஜூல்", "200 ஜூல்"],
+    "answer": 3
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Why is respiration considered an exothermic reaction?",
+    "question_ta": "சுவாசம் ஏன் வெப்பவிடும் வினையாகக் கருதப்படுகிறது?",
+    "options_en": ["It releases oxygen", "It releases heat energy", "It consumes CO2", "It requires enzymes"],
+    "options_ta": ["அது ஆக்சிஜனை வெளியிடுகிறது", "அது வெப்ப ஆற்றலை வெளியிடுகிறது", "அது CO2-ஐ பயன்படுத்துகிறது", "அதற்கு என்சைம்கள் தேவை"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which mirror is used in the headlights of vehicles?",
+    "question_ta": "வாகனங்களின் முன்விளக்குகளில் எந்தக் கண்ணாடி பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Plane mirror", "Convex mirror", "Concave mirror", "Cylindrical mirror"],
+    "options_ta": ["சமத் தட்டு கண்ணாடி", "வெளிவிழுக்கும் கண்ணாடி", "உள்ளிழுக்கும் கண்ணாடி", "உருளை கண்ணாடி"],
+    "answer": 2
+  },
+  {
+    "level": "Advanced",
+    "question_en": "What is the main reason for acid rain?",
+    "question_ta": "அமில மழைக்கான முக்கிய காரணம் என்ன?",
+    "options_en": ["Ozone", "Sulphur dioxide & Nitrogen oxides", "Carbon monoxide", "Methane"],
+    "options_ta": ["ஓசோன்", "சல்பர் டையாக்சைடு மற்றும் நைட்ரஜன் ஆக்சைடுகள்", "கார்பன் மோனாக்சைடு", "மீத்தேன்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Which part of the brain controls voluntary actions?",
+    "question_ta": "மூளையின் எந்த பகுதி விருப்ப செயல்களை கட்டுப்படுத்துகிறது?",
+    "options_en": ["Cerebellum", "Cerebrum", "Medulla", "Pons"],
+    "options_ta": ["சிறுமூளை", "முன்மூளை", "மெடுல்லா", "பான்ஸ்"],
+    "answer": 1
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Why does the Sun appear reddish during sunrise and sunset?",
+    "question_ta": "சூரியன் உதயமும் அஸ்தமனமும் சிவப்பாகத் தோன்றுவதற்குக் காரணம் என்ன?",
+    "options_en": ["Refraction", "Dispersion", "Scattering of shorter wavelengths", "Reflection"],
+    "options_ta": ["விலக்கு", "சிதறல்", "குறுகிய அலைநீள சிதறல்", "பிரதிபலிப்பு"],
+    "answer": 2
+  },
+  {
+    "level": "Advanced",
+    "question_en": "Why do ionic compounds have high melting and boiling points?",
+    "question_ta": "ஐயோனிக் சேர்மங்களுக்கு ஏன் அதிக உருகும் மற்றும் கொதியும் புள்ளிகள் உள்ளன?",
+    "options_en": ["Weak bonds", "Strong electrostatic forces", "Presence of molecules", "Small ions"],
+    "options_ta": ["பலவீன பிணைப்புகள்", "வலுவான மின்நிலைய விசைகள்", "அணுக்கள் இருப்பதால்", "சிறிய அயன்கள்"],
+    "answer": 1
+  }
+]
+
+
+
+
+
